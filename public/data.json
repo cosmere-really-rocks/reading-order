@@ -252,7 +252,7 @@
             "color": "#58b06e",
             "children": [
                 {
-                    "label": "Elantris",
+                    "label": "伊岚翠",
                     "children": [
                         {
                             "id": "elantris",
@@ -925,7 +925,7 @@
             "color": "#de4343",
             "children": [
                 {
-                    "label": "Warbreaker",
+                    "label": "破战者",
                     "color": "#de4343",
                     "children": [
                         {
@@ -997,7 +997,7 @@
             "color": "#2aa1d4",
             "children": [
                 {
-                    "label": "The Stormlight Archive",
+                    "label": "飓光志",
                     "children": [
                         {
                             "id": "sa1",
@@ -1749,7 +1749,7 @@
             ]
         },
         {
-            "label": "Other",
+            "label": "其他",
             "color": "#a0a0a0",
             "children": [
                 {
