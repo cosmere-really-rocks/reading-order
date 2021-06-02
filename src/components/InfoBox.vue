@@ -8,23 +8,23 @@
   </button>
   <h2 class="info-box__title" v-html="this.entry.title2"/>
   <span class="info-box__line">
-    <strong>Series: </strong>
-    <span v-html="entry.series || 'None'"/>
+    <strong>系列: </strong>
+    <span v-html="entry.series || '无'"/>
   </span>
   <span class="info-box__line">
-    <strong>World: </strong>
-    <span v-html="entry.world || 'None'"/>
+    <strong>世界: </strong>
+    <span v-html="entry.world || '无'"/>
   </span>
   <span class="info-box__line">
-    <strong>System: </strong>
-    <span v-html="entry.system || 'None'"/>
+    <strong>星系: </strong>
+    <span v-html="entry.system || '无'"/>
   </span>
   <span class="info-box__line">
-    <strong>Publication: </strong>
-    <span v-html="entry.publication || 'n/a'"/>
+    <strong>出版年月: </strong>
+    <span v-html="entry.publication || '暂未出版'"/>
   </span>
   <template v-if="entry.chronology !== undefined">
-  <strong class="info-box__chronology-title">Chronology:</strong>
+  <strong class="info-box__chronology-title">时间顺序:</strong>
   <p class="info-box__chronology" v-html="entry.chronology"/>
   </template>
 

@@ -5,7 +5,7 @@
     v-closable="{ handler: handleIntroOutsideClick }"
   >
     <div class="legend__intro-toggle" @click="introToggled = !introToggled">
-      info
+      关于
     </div>
 
     <div
@@ -21,7 +21,7 @@
       <span
         class="legend__intro-content-toggle"
         @click="introContentCollapsed = !introContentCollapsed"
-        v-html="introContentCollapsed ? 'More details' : 'Less details'"
+        v-html="introContentCollapsed ? '展开' : '收起'"
       ></span>
       <div class="legend__intro-content-more">
         <p>(1) Books are grouped by series, world, and star system by default, and are listed in
@@ -49,14 +49,14 @@
     v-closable="{ handler: handleKeysOutsideClick }"
   >
     <div class="legend__keys-toggle" @click="keysToggled = !keysToggled">
-      legend
+      图例
     </div>
 
     <div class="legend__keys-content">
       <div class="legend-options">
-        <h2>Options</h2>
+        <h2>选项</h2>
         <span class="legend-options-item">
-          <label for="sort">Order by</label>
+          <label for="sort">排序</label>
           <select id="sort" @change="changeSort">
             <option :value="null" :selected="selectedOrder === null">系列</option>
             <option
@@ -73,7 +73,7 @@
                  :checked="showSpoilers"
                  @input="$store.commit('toggleExplanations', $event.target.checked)">
           <label for="show-connection-explanations" title="Explain connection & appearance details">
-            Show spoilers
+            显示剧透
           </label>
         </span>
         <span class="legend-options-item">
@@ -81,13 +81,13 @@
                  :checked="highlightSeries"
                  @input="$store.commit('toggleSeriesHighlight', $event.target.checked)">
           <label for="highlight-series" title="Activate arches around diagram">
-            Activate series and planets
+            点亮系列和星球
           </label>
         </span>
       </div>
 
       <div class="legend-categories">
-        <h2>Categories</h2>
+        <h2>类别</h2>
         <Layer
           :layer="layer"
           :key="layer.name"
@@ -96,7 +96,7 @@
         ></Layer>
       </div>
       <div class="legend-connections">
-        <h2>Connections</h2>
+        <h2>关联</h2>
         <ConnectionPreview
           :type="type" :key="type.id"
           @update-route="updateRoute('connections', connectionTypes, $event)"
@@ -105,7 +105,7 @@
         </ConnectionPreview>
       </div>
       <div class="legend-appearances">
-        <h2>Appearances</h2>
+        <h2>出场</h2>
         <AppearancePreview
           :appearance="appearance" :key="appearance.id"
           @update-route="updateRoute('appearances', appearances, $event)"

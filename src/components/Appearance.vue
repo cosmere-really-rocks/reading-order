@@ -6,7 +6,7 @@
   v-tooltip="{
     content: showSpoilers
       ? appearance.description
-      : 'Spoilers ahead! Enable spoilers in the options to the right to see them!',
+      : '剧透警告！可在右栏的选项中设置是否显示剧透。',
     autoHide: false,
     hideOnTargetClick: false,
     trigger: 'click hover',
