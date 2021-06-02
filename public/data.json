@@ -930,7 +930,8 @@
                     "children": [
                         {
                             "id": "wb",
-                            "title": "<a target='_blank' href='https://coppermind.net/wiki/Warbreaker'>破战者</a>",
+                            "title": "破战者",
+                            "title2": "<a target='_blank' href='https://coppermind.net/wiki/Warbreaker'>破战者</a>",
                             "world": "<a target='_blank' href='https://coppermind.net/wiki/Nalthis'>纳尔西斯</a>",
                             "system": "<a target='_blank' href='https://coppermind.net/wiki/Nalthian_system'>纳尔西斯星系</a>",
                             "publication": "2009年6月",
