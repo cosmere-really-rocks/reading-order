@@ -58,7 +58,7 @@
         <span class="legend-options-item">
           <label for="sort">Order by</label>
           <select id="sort" @change="changeSort">
-            <option :value="null" :selected="selectedOrder === null">Series</option>
+            <option :value="null" :selected="selectedOrder === null">阅读顺序</option>
             <option
               :value="sort.id" :selected="selectedOrder === sort"
               :key="sort.id"
