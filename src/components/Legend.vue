@@ -14,29 +14,18 @@
         { 'legend__intro-content-collapsed': introContentCollapsed }
       ]"
     >
-      <h1>Cosmere Reading Guide</h1>
-      <p>This reading guide exists to (1) illustrate how the cosmere fits together, (2) provide
-        reading order guidance, (3) show connections between stories, and (4) provide awareness of
-        unpublished works.</p>
+      <h1>三界宙漫游指南</h1>
+      <p>欢迎来到美国幻想作家布兰登·桑德森创造的宇宙！作品太多不知道该如何入坑？不要惊慌，本指南为您提供如下服务：1）三界宙架构一览；2）阅读顺序推荐；3）穿越及彩蛋查询；4）未出版作品查询。</p>
       <span
         class="legend__intro-content-toggle"
         @click="introContentCollapsed = !introContentCollapsed"
         v-html="introContentCollapsed ? '展开' : '收起'"
       ></span>
       <div class="legend__intro-content-more">
-        <p>(1) Books are grouped by series, world, and star system by default, and are listed in
-          the clockwise direction.</p>
-        <p>(2) There is no 'right way' to read the Cosmere. This method strives to balance
-          publication order while grouping series together and allowing flexibility for the
-          reader. Read the 'Essential' works in each phase before moving on to the next phase.
-          Stories in a series should be read in the order listed. 'Secondary' books can be read
-          during their phase or skipped until a later time.</p>
-        <p>(3) Arrows illustrate connections between story. The 'target' includes some reference
-          to the first. Different arrow styles note the significance of any references (to the
-          story and to the greater cosmere), and can be taken as additional reading order advice.
-          Hover mouse on books to highlight related arrows. Hover mouse on arrows to see
-          details.</p>
-        <p>(4) Unpublished books may or may not be eventually published.</p>
+        <p>1）作品默认按系列、世界和星系分组，并按顺时针方向排列。</p>
+        <p>2）三界宙系列没有绝对正确的阅读顺序。本指南致力于平衡出版顺序，同时将系列作品分组，可灵活进行调整。推荐先阅读任一阶段的重要作品，再进入下一阶段。属于同一系列的作品应当以本指南所列的顺序阅读。次要作品可在所属阶段阅读，也可先跳过，日后再补。</p>
+        <p>3）箭头表示作品间的关联，箭头所指的作品含有触发箭头的作品的内容。箭头的式样表示该穿越的重要程度，也可作为阅读顺序的参考。鼠标悬停在作品上时，会出现相关的箭头，可把鼠标移到箭头上查看详情。</p>
+        <p>4）未出版作品最终未必会得到出版。</p>
       </div>
     </div>
 
