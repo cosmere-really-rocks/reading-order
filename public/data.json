@@ -220,28 +220,28 @@
         {
             "id": "hoid",
             "description": "须空",
-            "initial": "H",
+            "initial": "须",
             "color": "#A0A0A0",
             "details": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>在本作中出场或被提及。"
         },
         {
             "id": "khriss",
             "description": "克丽丝",
-            "initial": "K",
+            "initial": "克",
             "color": "#A0A0A0",
             "details": "<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>克丽丝</a>在本作中出场或被提及，但不包括她在<a target='_blank' href='https://coppermind.net/wiki/Ars_Arcanum'>《秘典》</a>中的论述。"
         },
         {
             "id": "nazh",
             "description": "纳兹",
-            "initial": "N",
+            "initial": "纳",
             "color": "#A0A0A0",
             "details": "<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>在本作中出场或被提及。"
         },
         {
             "id": "ars",
             "description": "秘典",
-            "initial": "A",
+            "initial": "秘",
             "color": "#A0A0A0",
             "details": "本作收录<a target='_blank' href='https://coppermind.net/wiki/Ars_Arcanum'>《秘典》</a>。"
         }
