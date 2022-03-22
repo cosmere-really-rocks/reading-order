@@ -727,8 +727,8 @@
                         },
                         {
                             "id": "nicki",
-                            "title": "妮奇·萨瓦奇的故事",
-                            "title2": "<a target='_blank' href='https://wob.coppermind.net/events/396/#e12985'>妮奇·萨瓦奇的故事</a>",
+                            "title": "妮奇·萨瓦奇与不死军团",
+                            "title2": "<a target='_blank' href='https://wob.coppermind.net/events/396/#e12985'>妮奇·萨瓦奇与不死军团</a>",
                             "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第二纪元",
                             "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
                             "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
@@ -1197,7 +1197,7 @@
                                 {
                                     "target": "mb2",
                                     "type": "minor",
-                                    "description": "<a target='_blank' href='https://coppermind.net/wiki/Ati'>Ati</a> speaks to <a target='_blank' href='https://coppermind.net/wiki/Vin'>Vin</a> and others with <a target='_blank' href='https://coppermind.net/wiki/Ruin'>Ruin's</a> <a target='_blank' href='https://coppermind.net/wiki/Rhythm#The_Pure_Tones'>Pure Tone</a>. The <a target='_blank' href='https://coppermind.net/wiki/Well_of_Ascension'>Well of Ascension</a> pulses with <a target='_blank' href='https://coppermind.net/wiki/Preservation'>Preservation's</a> <a target='_blank' href='https://coppermind.net/wiki/Rhythm#The_Pure_Tones'>Pure Tone</a>"
+                                    "description": "<a target='_blank' href='https://coppermind.net/wiki/Ati'>亚提</a>用<a target='_blank' href='https://coppermind.net/wiki/Ruin'>灭绝</a>的<a target='_blank' href='https://coppermind.net/wiki/Rhythm#The_Pure_Tones'>纯正音调</a>与<a target='_blank' href='https://coppermind.net/wiki/Vin'>纹</a>等人对话。<a target='_blank' href='https://coppermind.net/wiki/Well_of_Ascension'>升华之井</a>发出的是<a target='_blank' href='https://coppermind.net/wiki/Preservation'>存留</a>的 <a target='_blank' href='https://coppermind.net/wiki/Rhythm#The_Pure_Tones'>纯正音调</a>的鼓动。"
                                 }
                             ]
                         },
@@ -1694,12 +1694,12 @@
                     "children": [
                         {
                             "id": "kingmaker",
-                            "title": "造王者",
-                            "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>造王者</a>",
+                            "title": "拥王者",
+                            "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>拥王者</a>",
                             "world": "<a target='_blank' href='https://coppermind.net/wiki/First_of_the_Sun'>环日一</a>",
                             "system": "<a target='_blank' href='https://coppermind.net/wiki/Drominad_system'>德罗米纳星系</a>",
-                            "link": "<a target='_blank' href='https://wob.coppermind.net/events/479/#e15153'>Reading on Arcanum.</a>",
-                            "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/479/#e15153'>The reading suggests a setting not long after Sixth of the Dusk.</a>",
+                            "link": "<a target='_blank' href='https://wob.coppermind.net/events/479/#e15153'>在线阅读</a>",
+                            "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/479/#e15153'>该节选表明本作发生在《暮日六子》不久之后。</a>",
                             "sorting": {
                                 "chronology": 13.01
                             },
@@ -1797,15 +1797,15 @@
                     "children": [
                         {
                             "id": "secret1",
-                            "title": "Secret Project 1 (2023)",
-                            "title2": "<a target='_blank' href='https://coppermind.net/wiki/Secret_Project_One'>Secret Project 1</a>",
-                            "world": "Spoiler",
-                            "system": "Spoiler",
-                            "publication": "January 2023",
+                            "title": "绝密项目一（2023年）",
+                            "title2": "<a target='_blank' href='https://coppermind.net/wiki/Secret_Project_One'>绝密项目一</a>",
+                            "world": "剧透",
+                            "system": "剧透",
+                            "publication": "2023年1月",
                             "sorting": {
                                 "publication": 2023.01
                             },
-                            "link": "Chapters 1-5 available on <a target='_blank' href='brandonsanderson.com/first-look-at-secret-project-1'>Brandon's website</a> and <a target='_blank' href='https://youtu.be/bBUVXcIE0E0'>YouTube</a>. (some may consider to be spoilers)",
+                            "link": "第1-5章可在<a target='_blank' href='brandonsanderson.com/first-look-at-secret-project-1'>官网</a>阅读，也可<a target='_blank' href='https://youtu.be/bBUVXcIE0E0'>在线</a>收听朗读（可能含有剧透）。",
                             "categories": [ "no-series", "novel", "plan", "forthcoming" ]
                         }
                     ]
@@ -1814,15 +1814,15 @@
                     "children": [
                         {
                             "id": "secret3",
-                            "title": "Secret Project 3 (2023)",
-                            "title2": "<a target='_blank' href='https://coppermind.net/wiki/Secret_Project_Three'>Secret Project 3</a>",
-                            "world": "Spoiler",
-                            "system": "Spoiler",
-                            "publication": "July 2023",
+                            "title": "绝密项目三（2023年）",
+                            "title2": "<a target='_blank' href='https://coppermind.net/wiki/Secret_Project_Three'>绝密项目三</a>",
+                            "world": "剧透",
+                            "system": "剧透",
+                            "publication": "2023年7月",
                             "sorting": {
                                 "publication": 2023.07
                             },
-                            "link": "Chapters 1-7 available on <a target='_blank' href='brandonsanderson.com/first-look-at-secret-project-3'>Brandon's website</a> and <a target='_blank' href='https://youtu.be/cFGDcvtRdz0'>YouTube</a>. (some may consider to be spoilers)",
+                            "link": "第1-7章可在<a target='_blank' href='brandonsanderson.com/first-look-at-secret-project-3'>官网</a>阅读，也可<a target='_blank' href='https://youtu.be/cFGDcvtRdz0'>在线</a>收听朗读（可能含有剧透）。",
                             "categories": [ "no-series", "novel", "plan", "forthcoming" ]
                         }
                     ]
@@ -1831,11 +1831,11 @@
                     "children": [
                         {
                             "id": "secret4",
-                            "title": "Secret Project 4 (2023)",
-                            "title2": "<a target='_blank' href='https://coppermind.net/wiki/Secret_Project_Four'>Secret Project 4</a>",
-                            "world": "Spoiler",
-                            "system": "Spoiler",
-                            "publication": "October 2023",
+                            "title": "绝密项目四（2023年）",
+                            "title2": "<a target='_blank' href='https://coppermind.net/wiki/Secret_Project_Four'>绝密项目四</a>",
+                            "world": "剧透",
+                            "system": "剧透",
+                            "publication": "2023年10月",
                             "sorting": {
                                 "publication": 2023.10
                             },
