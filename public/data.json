@@ -1,5 +1,5 @@
 {
-    "base-separation": 3.5,
+    "base-separation": 3.21,
     "connections": [
         {
             "id": "major",
@@ -1193,6 +1193,11 @@
                                     "target": "d1",
                                     "type": "egg",
                                     "description": "本作提到的<a target='_blank' href='https://coppermind.net/wiki/Microkinesis'>微动术</a>是<a target='_blank' href='https://coppermind.net/wiki/Yolen'>尤伦</a>的魔法，最初出现在<a target='_blank' href='https://coppermind.net/wiki/Dragonsteel'>《龙钢》</a>中。"
+                                },
+                                {
+                                    "target": "mb2",
+                                    "type": "minor",
+                                    "description": "<a target='_blank' href='https://coppermind.net/wiki/Ati'>Ati</a> speaks to <a target='_blank' href='https://coppermind.net/wiki/Vin'>Vin</a> and others with <a target='_blank' href='https://coppermind.net/wiki/Ruin'>Ruin's</a> <a target='_blank' href='https://coppermind.net/wiki/Rhythm#The_Pure_Tones'>Pure Tone</a>. The <a target='_blank' href='https://coppermind.net/wiki/Well_of_Ascension'>Well of Ascension</a> pulses with <a target='_blank' href='https://coppermind.net/wiki/Preservation'>Preservation's</a> <a target='_blank' href='https://coppermind.net/wiki/Rhythm#The_Pure_Tones'>Pure Tone</a>"
                                 }
                             ]
                         },
@@ -1223,7 +1228,7 @@
 				"publication": 2023.11,
                                 "chronology": 7.05
                             },
-                            "categories": [ "stormlight", "plan", "unpublished", "novel" ]
+                            "categories": [ "stormlight", "plan", "forthcoming", "novel" ]
                         },
                         {
                             "id": "lopen",
@@ -1678,7 +1683,7 @@
                             "system": "<a target='_blank' href='https://coppermind.net/wiki/Drominad_system'>德罗米纳星系</a>",
                             "chronology": "《暮日六子》发生五年后。",
                             "sorting": {
-                                "chronology": 13.01
+                                "chronology": 13.02
                             },
                             "link": "<a target='_blank' href='https://wob.coppermind.net/events/448/#e14408'>阅读节选</a>（剧透警告）。",
                             "categories": [ "no-series", "novella", "plan", "unpublished" ]
@@ -1693,6 +1698,11 @@
                             "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>造王者</a>",
                             "world": "<a target='_blank' href='https://coppermind.net/wiki/First_of_the_Sun'>环日一</a>",
                             "system": "<a target='_blank' href='https://coppermind.net/wiki/Drominad_system'>德罗米纳星系</a>",
+                            "link": "<a target='_blank' href='https://wob.coppermind.net/events/479/#e15153'>Reading on Arcanum.</a>",
+                            "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/479/#e15153'>The reading suggests a setting not long after Sixth of the Dusk.</a>",
+                            "sorting": {
+                                "chronology": 13.01
+                            },
                             "categories": [ "no-series", "novel", "plan", "unpublished" ]
                         }
 				    ]
@@ -1780,6 +1790,56 @@
                             "world": "未知",
                             "system": "未知",
                             "categories": [ "aether", "novel", "plan", "unpublished" ]
+                        }
+                    ]
+                },
+                {
+                    "children": [
+                        {
+                            "id": "secret1",
+                            "title": "Secret Project 1 (2023)",
+                            "title2": "<a target='_blank' href='https://coppermind.net/wiki/Secret_Project_One'>Secret Project 1</a>",
+                            "world": "Spoiler",
+                            "system": "Spoiler",
+                            "publication": "January 2023",
+                            "sorting": {
+                                "publication": 2023.01
+                            },
+                            "link": "Chapters 1-5 available on <a target='_blank' href='brandonsanderson.com/first-look-at-secret-project-1'>Brandon's website</a> and <a target='_blank' href='https://youtu.be/bBUVXcIE0E0'>YouTube</a>. (some may consider to be spoilers)",
+                            "categories": [ "no-series", "novel", "plan", "forthcoming" ]
+                        }
+                    ]
+                },
+                {
+                    "children": [
+                        {
+                            "id": "secret3",
+                            "title": "Secret Project 3 (2023)",
+                            "title2": "<a target='_blank' href='https://coppermind.net/wiki/Secret_Project_Three'>Secret Project 3</a>",
+                            "world": "Spoiler",
+                            "system": "Spoiler",
+                            "publication": "July 2023",
+                            "sorting": {
+                                "publication": 2023.07
+                            },
+                            "link": "Chapters 1-7 available on <a target='_blank' href='brandonsanderson.com/first-look-at-secret-project-3'>Brandon's website</a> and <a target='_blank' href='https://youtu.be/cFGDcvtRdz0'>YouTube</a>. (some may consider to be spoilers)",
+                            "categories": [ "no-series", "novel", "plan", "forthcoming" ]
+                        }
+                    ]
+                },
+                {
+                    "children": [
+                        {
+                            "id": "secret4",
+                            "title": "Secret Project 4 (2023)",
+                            "title2": "<a target='_blank' href='https://coppermind.net/wiki/Secret_Project_Four'>Secret Project 4</a>",
+                            "world": "Spoiler",
+                            "system": "Spoiler",
+                            "publication": "October 2023",
+                            "sorting": {
+                                "publication": 2023.10
+                            },
+                            "categories": [ "no-series", "novel", "plan", "forthcoming" ]
                         }
                     ]
                 },
