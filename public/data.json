@@ -2079,13 +2079,13 @@
           "children": [
             {
               "id": "au",
-              "title": "Arcanum Unbounded (essays)",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>Arcanum Unbounded (essays)</a>",
-              "world": "N/A",
-              "system": "N/A",
-              "au": "Included in <a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>Arcanum Unbounded</a>.",
-              "publication": "November 2016",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/36/#e1491'>The essays were written before the events of Sixth of the Dusk.</a> They could potentially be as early as Mistborn Era 3.",
+              "title": "星系解析",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>星系解析</a>",
+              "world": "无",
+              "system": "无",
+              "au": "收录于<a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>《奥秘全书》</a>。",
+              "publication": "2016年11月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/36/#e1491'>写于《暮日六子》之前，可能与迷雾之子第三纪元同期。",
               "sorting": {
                 "order": 2.31,
                 "publication": 2016.11,
@@ -2095,7 +2095,7 @@
                 {
                   "id": "khriss",
                   "type": "mention",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>Khriss</a> is the author of the essays."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>克丽丝</a>是这些文章的作者。"
                 }
               ],
               "categories": ["no-series", "short", "phase2", "published"],
@@ -2103,7 +2103,7 @@
                 {
                   "target": "sa4",
                   "type": "minor",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Devotion'>Devotion</a> and <a target='_blank' href='https://coppermind.net/wiki/Dominion'>Dominion</a> are referenced in the <a target='_blank' href='https://coppermind.net/wiki/Rhythm_of_War/Epigraphs'>Chapter 26 Epigraph</a>. <a target='_blank' href='https://coppermind.net/wiki/Ambition'>Ambition's</a> struggle with <a target='_blank' href='https://coppermind.net/wiki/Odium'>Odium</a> is referenced in the <a target='_blank' href='https://coppermind.net/wiki/Rhythm_of_War/Epigraphs'>Chapter 27 Epigraph</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Rhythm_of_War/Epigraphs'>第26章的题词</a>提到了<a target='_blank' href='https://coppermind.net/wiki/Devotion'>忠爱</a>和<a target='_blank' href='https://coppermind.net/wiki/Dominion'>统御</a>。<a target='_blank' href='https://coppermind.net/wiki/Rhythm_of_War/Epigraphs'>第27章的题词</a>提到了<a target='_blank' href='https://coppermind.net/wiki/Ambition'>意志</a>与<a target='_blank' href='https://coppermind.net/wiki/Odium'>仇恨</a>的斗争。"
                 },
                 {
                   "target": "mb7",
