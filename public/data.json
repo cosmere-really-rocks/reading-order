@@ -1768,20 +1768,20 @@
       ]
     },
     {
-      "label": "Threnody",
+      "label": "天挽",
       "color": "#6633cc",
       "children": [
         {
           "children": [
             {
               "id": "sfs",
-              "title": "Shadows for Silence",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Shadows_for_Silence_in_the_Forests_of_Hell'>Shadows for Silence in the Forests of Hell</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Threnody'>Threnody</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Threnodite_system'>Threnodite system</a>",
-              "au": "Included in <a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>Arcanum Unbounded</a>.",
-              "publication": "December 2013",
-              "chronology": "Occurs <a target='_blank' href='https://wob.coppermind.net/events/216/#e6445'>before Stormlight Archive</a> but <a target='_blank' href='https://wob.coppermind.net/events/309/#e10273'>after Warbreaker</a>.",
+              "title": "地狱树林里的沉默幽灵",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Shadows_for_Silence_in_the_Forests_of_Hell'>地狱树林里的沉默幽灵</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Threnody'>天挽</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Threnodite_system'>天挽星系</a>",
+              "au": "收录于<a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>《奥秘全书》</a>。",
+              "publication": "2013年12月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/216/#e6445'>早于《飓光志》</a>，但<a target='_blank' href='https://wob.coppermind.net/events/309/#e10273'>晚于《破战者》</a>。",
               "sorting": {
                 "order": 1.6,
                 "publication": 2013.12,
@@ -1792,27 +1792,27 @@
                 {
                   "target": "sa2",
                   "type": "egg",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Mraize'>Mraize</a>'s collection in <a target='_blank' href='https://coppermind.net/wiki/Summary:Words_of_Radiance#Chapter_43:_The_Ghostbloods'>Chapter 43</a> includes a silver knife from <a target='_blank' href='https://coppermind.net/wiki/Threnody'>Threnody</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Summary:Words_of_Radiance#Chapter_43:_The_Ghostbloods'>第43章</a>中，<a target='_blank' href='https://coppermind.net/wiki/Mraize'>穆里兹</a>的收藏包括一把来自<a target='_blank' href='https://coppermind.net/wiki/Threnody'>天挽</a>的银刀。"
                 },
                 {
                   "target": "sa3",
                   "type": "egg",
-                  "description": "The silvery chain in <a target='_blank' href='https://coppermind.net/wiki/Celebrant'>Celebrant</a> is from <a target='_blank' href='https://coppermind.net/wiki/Threnody'>Threnody</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Celebrant'>祭兰城</a>武器摊所卖的银链来自<a target='_blank' href='https://coppermind.net/wiki/Threnody'>天挽</a>。"
                 },
                 {
                   "target": "msh",
                   "type": "minor",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Kelsier'>Kelsier</a> causes the <a target='_blank' href='https://coppermind.net/wiki/Ire'>Ire</a> to suspect <a target='_blank' href='https://coppermind.net/wiki/Shade'>Shades</a> from <a target='_blank' href='https://coppermind.net/wiki/Threnody'>Threnody</a> are nearby."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Kelsier'>卡西尔</a>让<a target='_blank' href='https://coppermind.net/wiki/Ire'>埃瑞会</a>以为附近出现了来自<a target='_blank' href='https://coppermind.net/wiki/Threnody'>天挽</a>的<a target='_blank' href='https://coppermind.net/wiki/Shade'>幽灵</a>。"
                 },
                 {
                   "target": "au",
                   "type": "minor",
-                  "description": "The <a target='_blank' href='https://coppermind.net/wiki/Threnodite_system'>Threnodite system</a> essay discusses the history of <a target='_blank' href='https://coppermind.net/wiki/Threnody'>Threnody</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Threnodite_system'>天挽星系</a>篇章探讨了<a target='_blank' href='https://coppermind.net/wiki/Threnody'>天挽</a>的历史。"
                 },
                 {
                   "target": "sa4",
                   "type": "egg",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Raboniel'>Raboniel's</a> chain from 'the lands of the dead' is likely a <a target='_blank' href='https://coppermind.net/wiki/Silver'>silver</a> chain from <a target='_blank' href='https://coppermind.net/wiki/Threnody'>Threnody</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Raboniel'>拉博妮尔</a>拥有一根来自“亡灵之地”的链子，可能是来自<a target='_blank' href='https://coppermind.net/wiki/Threnody'>天挽</a>的<a target='_blank' href='https://coppermind.net/wiki/Silver'>银</a>链。"
                 },
                 {
                   "target": "tress",
@@ -1839,8 +1839,8 @@
               "id": "tnb",
               "title": "The Night Brigade",
               "title2": "<a target='_blank' href='https://wob.coppermind.net/adv_search/?tags=the+night+brigade'>The Night Brigade</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Threnody'>Threnody</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Threnodite_system'>Threnodite system</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Threnody'>天挽</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Threnodite_system'>天挽星系</a>",
               "categories": ["no-series", "unpublished", "future-plan", "novel"]
             }
           ]
