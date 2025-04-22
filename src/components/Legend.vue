@@ -19,7 +19,7 @@
       <p>欢迎来到美国幻想作家布兰登·桑德森创造的宇宙！作品太多不知道该如何入坑？不要惊慌，本指南为您提供如下服务：1）三界宙架构一览；2）阅读顺序推荐；3）穿越及彩蛋查询；4）未出版作品查询。</p>
       <span
         class="legend__intro-content-toggle"
-        @click="introContentCollapsed = !introContentCollapsed"
+        @click="introMoreInfoToggleHandler"
         v-html="introContentCollapsed ? '展开' : '收起'"
       ></span>
       <div class="legend__intro-content-more">
@@ -27,8 +27,17 @@
         <!--eslint-disable-next-line max-len-->
         <p>2）三界宙系列没有绝对正确的阅读顺序。本指南致力于平衡出版顺序，同时将系列作品分组，可灵活进行调整。推荐先阅读任一阶段的重要作品，再进入下一阶段。属于同一系列的作品应当以本指南所列的顺序阅读。次要作品可在所属阶段阅读，也可先跳过，日后再补。</p>
         <!--eslint-disable-next-line max-len-->
-        <p>3）箭头表示作品间的关联，箭头所指的作品含有触发箭头的作品的内容。箭头的式样表示该穿越的重要程度，也可作为阅读顺序的参考。鼠标悬停在作品上时，会出现相关的箭头，可把鼠标移到箭头上查看详情。</p>
+        <p>3）箭头表示作品间的关联，箭头所指的作品含有触发箭头的作品的内容。箭头的式样表示该穿越的重要程度，也可作为阅读顺序的参考。单击作品以查看信息，出现相关的箭头也会同时出现。单击箭头可以查看详情。</p>
         <p>4）未出版作品最终未必会得到出版。</p>
+        <div class="legend-feedback">
+          <h2>Feedback</h2>
+          <ul class="feedback">
+            <li><a href="mailto:joshua@17thshard.com">Email</a></li>
+            <li><a href="https://github.com/17thshard/reading-order/issues/new">Github</a></li>
+            <li><a href="https://www.17thshard.com/forum/profile/18320-jofwu/">17th Shard</a></li>
+            <li><a href="https://www.reddit.com/message/compose/?to=jofwu">Reddit</a></li>
+          </ul>
+        </div>
       </div>
     </div>
 
@@ -40,7 +49,7 @@
     :class="['legend__keys', {'legend__keys--open': keysToggled}]"
     v-closable="{ handler: handleKeysOutsideClick }"
   >
-    <div class="legend__keys-toggle" @click="keysToggled = !keysToggled">
+    <div class="legend__keys-toggle" @click="legendKeysToggleHandler">
       图例
     </div>
 
@@ -127,9 +136,9 @@ export default {
   },
   data() {
     return {
-      introToggled: !this.areClosablesHiddenByDefault(),
-      introContentCollapsed: true,
-      keysToggled: !this.areClosablesHiddenByDefault(),
+      introToggled: !this.isInfoHiddenByDefault(),
+      introContentCollapsed: !this.isIntroContentCollapsedByDefault(),
+      keysToggled: !this.isLegendHiddenByDefault(),
       selectedOrder: null,
       sortInitialized: false,
     };
@@ -172,16 +181,48 @@ export default {
   methods: {
     handleIntroOutsideClick() {
       if (this.introToggled && this.areClosablesHiddenByDefault()) {
+        localStorage.setItem('introToggled', false);
         this.introToggled = false;
       }
     },
     handleKeysOutsideClick() {
       if (this.keysToggled && this.areClosablesHiddenByDefault()) {
+        localStorage.setItem('keysToggled', false);
         this.keysToggled = false;
       }
     },
+    isLegendHiddenByDefault() {
+      let keysToggled = localStorage.getItem('keysToggled');
+      if (keysToggled === undefined) {
+        keysToggled = this.areClosablesHiddenByDefault();
+      }
+      return !(keysToggled === 'true');
+    },
+    isInfoHiddenByDefault() {
+      let introToggled = localStorage.getItem('introToggled');
+      if (introToggled === undefined) {
+        introToggled = this.areClosablesHiddenByDefault();
+      }
+      return !(introToggled === 'true');
+    },
+    isIntroContentCollapsedByDefault() {
+      const introContentCollapsed = localStorage.getItem('introContentCollapsed');
+      return introContentCollapsed === undefined ? true : introContentCollapsed;
+    },
     areClosablesHiddenByDefault() {
       return window.matchMedia('(max-width: 1000px)').matches;
+    },
+    introToggleHandler() {
+      localStorage.setItem('introToggled', !this.introToggled);
+      this.introToggled = !this.introToggled;
+    },
+    legendKeysToggleHandler() {
+      localStorage.setItem('keysToggled', !this.keysToggled);
+      this.keysToggled = !this.keysToggled;
+    },
+    introMoreInfoToggleHandler() {
+      localStorage.setItem('introContentCollapsed', !this.introContentCollapsed);
+      this.introContentCollapsed = !this.introContentCollapsed;
     },
     toggleUi(event) {
       if (event.code !== 'KeyH') {
@@ -340,11 +381,16 @@ export default {
     align-items: flex-start;
   }
 
-  &-categories, &-connections, &-appearances {
+  &-categories, &-connections, &-appearances, &-feedback {
     padding-left: 0.5rem;
 
     h2 {
       margin-left: -0.5rem;
+    }
+
+    ul {
+      margin-block: 0;
+      padding-inline-start: 27px;
     }
   }
 
