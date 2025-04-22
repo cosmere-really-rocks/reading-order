@@ -1939,31 +1939,31 @@
       "color": "#e3a1e3",
       "children": [
         {
-          "label": "Aether<br>Series",
+          "label": "暗夜以太",
           "color": "#e3a1e3",
           "children": [
             {
               "id": "aether1",
-              "title": "Aether Book 1",
-              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2019/'>Aether Book 1</a>",
+              "title": "暗夜以太·卷一",
+              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2019/'>暗夜以太·卷一</a>",
               "world": "<a target='_blank' href='https://coppermind.net/wiki/Aether_homeworld'>Aether homeworld</a>",
-              "system": "Unknown",
+              "system": "未知",
               "categories": ["aether", "novel", "unpublished", "future-plan"]
             },
             {
               "id": "aether2",
-              "title": "Aether Book 2",
-              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2019/'>Aether Book 2</a>",
+              "title": "暗夜以太·卷二",
+              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2019/'>暗夜以太·卷二</a>",
               "world": "<a target='_blank' href='https://coppermind.net/wiki/Aether_homeworld'>Aether homeworld</a>",
-              "system": "Unknown",
+              "system": "未知",
               "categories": ["aether", "novel", "unpublished", "future-plan"]
             },
             {
               "id": "aether3",
-              "title": "Aether Book 3",
-              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2019/'>Aether Book 3</a>",
+              "title": "暗夜以太·卷三",
+              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2019/'>暗夜以太·卷三</a>",
               "world": "<a target='_blank' href='https://coppermind.net/wiki/Aether_homeworld'>Aether homeworld</a>",
-              "system": "Unknown",
+              "system": "未知",
               "categories": ["aether", "novel", "unpublished", "future-plan"]
             }
           ]
