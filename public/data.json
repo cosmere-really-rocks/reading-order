@@ -1848,20 +1848,20 @@
       ]
     },
     {
-      "label": "First of<br>the Sun",
+      "label": "环日一",
       "color": "#367485",
       "children": [
         {
           "children": [
             {
               "id": "sotd",
-              "title": "Sixth of the Dusk",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Sixth_of_the_Dusk'>Sixth of the Dusk</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/First_of_the_Sun'>First of the Sun</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Drominad_system'>Drominad system</a>",
-              "au": "Included in <a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>Arcanum Unbounded</a>.",
-              "publication": "June 2014",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/60/#e6664'>Shortly before Mistborn Era 5.</a>",
+              "title": "暮日六子",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Sixth_of_the_Dusk'>暮日六子</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/First_of_the_Sun'>环日一</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Drominad_system'>德罗米纳星系</a>",
+              "au": "收录于<a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>《奥秘全书》</a>。",
+              "publication": "2014年6月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/60/#e6664'>略早于迷雾之子第五纪元。</a>",
               "padding": 12,
               "sorting": {
                 "order": 1.7,
@@ -1873,17 +1873,17 @@
                 {
                   "target": "sa3",
                   "type": "minor",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Mraize'>Mraize</a>'s chicken, mentioned in <a target='_blank' href='https://coppermind.net/wiki/Summary:Oathbringer#Chapter_22:_The_Darkness_Within'>Chapter 22</a>, is an <a target='_blank' href='https://coppermind.net/wiki/Aviar'>Aviar</a>. <a target='_blank' href='https://coppermind.net/wiki/Patji'>Patji</a> is referenced obliquely in <a target='_blank' href='https://coppermind.net/wiki/Autonomy'>Autonomy</a>'s <a target='_blank' href='https://coppermind.net/wiki/Letters#Second_Oathbringer_Letter'>letter</a> to <a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> in the <a target='_blank' href='https://coppermind.net/wiki/Oathbringer/Epigraphs#Letters'>Part 2 epigraphs</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Summary:Oathbringer#Chapter_22:_The_Darkness_Within'>第22章</a>中，<a target='_blank' href='https://coppermind.net/wiki/Mraize'>穆里兹</a>的鸡就是<a target='_blank' href='https://coppermind.net/wiki/Aviar'>灵鸟</a>。在<a target='_blank' href='https://coppermind.net/wiki/Oathbringer/Epigraphs#Letters'>第二部分的题词</a>中，<a target='_blank' href='https://coppermind.net/wiki/Autonomy'>自主</a>写给<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>的<a target='_blank' href='https://coppermind.net/wiki/Letters#Second_Oathbringer_Letter'>信</a>提到了<a target='_blank' href='https://coppermind.net/wiki/Patji'>湃脊</a>。"
                 },
                 {
                   "target": "au",
                   "type": "minor",
-                  "description": "The <a target='_blank' href='https://coppermind.net/wiki/Drominad_system'>Drominad system</a> essay discusses <a target='_blank' href='https://coppermind.net/wiki/First_of_the_Sun'>First of the Sun</a> and its magic."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Drominad_system'>德罗米纳星系</a>篇章探讨了<a target='_blank' href='https://coppermind.net/wiki/First_of_the_Sun'>环日一</a>及其魔法的情况。"
                 },
                 {
                   "target": "sa4",
                   "type": "minor",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Gereh'>Gereh</a> has an <a target='_blank' href='https://coppermind.net/wiki/Aviar'>Aviar</a>, which <a target='_blank' href='https://coppermind.net/wiki/Lift'>Lift</a> comes into possession of."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Gereh'>格雷</a>拥有一只<a target='_blank' href='https://coppermind.net/wiki/Aviar'>灵鸟</a>，这只灵鸟在他死后被<a target='_blank' href='https://coppermind.net/wiki/Lift'>莉芙特</a>找到。"
                 },
                 {
                   "target": "tress",
@@ -1896,16 +1896,16 @@
               "id": "iote",
               "title": "Isles of the Emberdark (2025)",
               "title2": "<a target='_blank' href='https://wob.coppermind.net/events/533/#e16506'>Isles of the Emberdark</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/First_of_the_Sun'>First of the Sun</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Drominad_system'>Drominad system</a>",
-              "chronology": "Five years after Sixth of the Dusk novella.",
-              "publication": "<a target='_blank' href='https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2024'>Fall 2025 (digital earlier)</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/First_of_the_Sun'>环日一</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Drominad_system'>德罗米纳星系</a>",
+              "chronology": "《暮日六子》发生五年后。",
+              "publication": "<a target='_blank' href='https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2024'>2025秋</a>",
               "sorting": {
                 "order": 3.2,
                 "publication": 2025.09,
                 "chronology": 13.02
               },
-              "link": "<a target='_blank' href='https://wob.coppermind.net/events/533-secret-project-5-reveal-and-livestream/>Excerpts on Arcanum.</a>",
+              "link": "<a target='_blank' href='https://wob.coppermind.net/events/533-secret-project-5-reveal-and-livestream/>阅读节选</a>（剧透警告）。",
               "categories": ["no-series", "novel", "unpublished", "forthcoming"]
             }
           ]
@@ -1914,12 +1914,12 @@
           "children": [
             {
               "id": "kingmaker",
-              "title": "Kingmaker",
-              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>Kingmaker</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/First_of_the_Sun'>First of the Sun</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Drominad_system'>Drominad system</a>",
-              "link": "<a target='_blank' href='https://wob.coppermind.net/events/479/#e15153'>Reading on Arcanum.</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/479/#e15153'>The reading suggests a setting not long after Sixth of the Dusk.</a>",
+              "title": "拥王者",
+              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>拥王者</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/First_of_the_Sun'>环日一</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Drominad_system'>德罗米纳星系</a>",
+              "link": "<a target='_blank' href='https://wob.coppermind.net/events/479/#e15153'>在线阅读</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/479/#e15153'>该节选表明本作发生在《暮日六子》不久之后。</a>",
               "sorting": {
                 "chronology": 13.01
               },
