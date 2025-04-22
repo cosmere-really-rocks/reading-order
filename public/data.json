@@ -1746,7 +1746,7 @@
               ]
             },
             {
-              "label": "秘法学家",
+              "id": "秘法学家",
               "title": "秘法学家",
               "title2": "秘法学家",
               "series": "无",
@@ -1866,7 +1866,7 @@
               "sorting": {
                 "order": 1.7,
                 "publication": 2014.06,
-                "chronology": 13.0
+                "chronology": 13
               },
               "categories": ["no-series", "novella", "phase1", "published"],
               "connections": [
@@ -2089,7 +2089,7 @@
               "sorting": {
                 "order": 2.31,
                 "publication": 2016.11,
-                "chronology": 12.0
+                "chronology": 12
               },
               "appearances": [
                 {
@@ -2225,7 +2225,6 @@
               "world": "<a target='_blank' href='https://coppermind.net/wiki/Ashyn'>埃辛</a>",
               "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
               "link": "<a target='_blank' href='https://wob.coppermind.net/events/201/#e12303'>阅读节选</a>",
-              "publication": "2014年3月",
               "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/370/#e11901'>发生于《飓光志》卷八前后。</a>",
               "sorting": {
                 "chronology": 9.081
@@ -2343,7 +2342,7 @@
               "sorting": {
                 "order": 1.54,
                 "publication": 2009.06,
-                "chronology": 2.0
+                "chronology": 2
               },
               "appearances": [
                 {
