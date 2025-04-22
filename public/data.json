@@ -1162,21 +1162,21 @@
       ]
     },
     {
-      "label": "Roshar",
+      "label": "柔刹",
       "color": "#2aa1d4",
       "children": [
         {
-          "label": "The Stormlight Archive",
+          "label": "飓光志",
           "children": [
             {
               "id": "sa1",
-              "title": "The Way of Kings",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Way_of_Kings'>The Way of Kings</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "publication": "August 2010",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/309/#e10273'>Occurs after Mistborn Era 1 and Warbreaker but before Mistborn Era 2.</a>",
+              "title": "王者之路",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Way_of_Kings'>王者之路</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "publication": "2010年8月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/309/#e10273'>晚于迷雾之子第一纪元和《破战者》，早于迷雾之子第二纪元。</a>",
               "sorting": {
                 "order": 2.41,
                 "publication": 2010.08,
@@ -1186,7 +1186,7 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is 'Wit'."
+                  "description": "本作中的御前知策就是<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>。"
                 },
                 {
                   "id": "ars",
@@ -1229,13 +1229,13 @@
             },
             {
               "id": "sa2",
-              "title": "Words of Radiance",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Words_of_Radiance'>Words of Radiance</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "publication": "March 2014",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/309/#e10273'>Occurs after Mistborn Era 1 and Warbreaker but before Mistborn Era 2.</a>",
+              "title": "光辉真言",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Words_of_Radiance'>光辉真言</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "publication": "2014年3月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/309/#e10273'>晚于迷雾之子第一纪元和《破战者》，早于迷雾之子第二纪元。</a>",
               "sorting": {
                 "order": 2.42,
                 "publication": 2014.03,
@@ -1245,12 +1245,12 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is 'Wit'."
+                  "description": "本作中的御前知策就是<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>。"
                 },
                 {
                   "id": "nazh",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a> is the <a target='_blank' href='https://coppermind.net/wiki/Ardent'>ardent</a> trying to get a sketch of <a target='_blank' href='https://coppermind.net/wiki/Bridge_Four'>Bridge Four</a>'s tattoo in <a target='_blank' href='https://coppermind.net/wiki/Summary:Words_of_Radiance#Chapter_31:_The_Stillness_Before'>Chapter 31</a>. Several drawings and sketches also include his annotations."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Summary:Words_of_Radiance#Chapter_31:_The_Stillness_Before'>第31章</a>中，那位要把<a target='_blank' href='https://coppermind.net/wiki/Bridge_Four'>第四冲桥队</a>队员的文身画下来的<a target='_blank' href='https://coppermind.net/wiki/Ardent'>虔诚者</a>就是<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>。本作中的部分插图有他的注释。"
                 },
                 {
                   "id": "ars",
@@ -1277,12 +1277,12 @@
                 {
                   "target": "traveler",
                   "type": "minor",
-                  "description": "The man <a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> speaks with is <a target='_blank' href='https://coppermind.net/wiki/Frost'>Frost</a>, who responded to <a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> with similar opinions in the <a target='_blank' href='https://coppermind.net/wiki/Words_of_Radiance/Epigraphs#The_Second_Letter'>Words of Radiance Part 4 epigraphs</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Words_of_Radiance/Epigraphs#The_Second_Letter'>本作第四部分的题词</a>中，<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>通信的对象是<a target='_blank' href='https://coppermind.net/wiki/Frost'>冰霜</a>，后者以类似的观点寄来了回信。"
                 },
                 {
                   "target": "au",
                   "type": "minor",
-                  "description": "The <a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a> essay covers details about <a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a> and makes mentions of <a target='_blank' href='https://coppermind.net/wiki/Odium'>Odium</a>'s past."
+                  "description": "本作的<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>篇章详细介绍了<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>的情况，提到了<a target='_blank' href='https://coppermind.net/wiki/Odium'>仇恨</a>的过去。"
                 },
                 {
                   "target": "mb7",
@@ -1316,12 +1316,12 @@
             },
             {
               "id": "lopen",
-              "title": "King Lopen",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/King_Lopen_the_First_of_Alethkar'>King Lopen the First of Alethkar</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Lost Tales</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "chronology": "Occurs concurrently with the final events of Words of Radiance.",
+              "title": "偻朋一世",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/King_Lopen_the_First_of_Alethkar'>偻朋一世</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "chronology": "平行于《光辉真言》结尾。",
               "publication": "December 2024",
               "padding": 12,
               "sorting": {
@@ -1333,15 +1333,15 @@
             },
             {
               "id": "sa2.5",
-              "title": "Edgedancer",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Edgedancer'>Edgedancer</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "au": "Included in <a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>Arcanum Unbounded</a>.",
+              "title": "缘舞",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Edgedancer'>缘舞</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "au": "收录于<a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>《奥秘全书》</a>。",
               "padding": 12,
-              "publication": "November 2016",
-              "chronology": "Occurs after Words of Radiance and concurrently with the early events of Oathbringer.",
+              "publication": "2016年11月",
+              "chronology": "衔接《光辉真言》和《渡誓》。",
               "sorting": {
                 "order": 2.43,
                 "publication": 2016.11,
@@ -1351,7 +1351,7 @@
                 {
                   "id": "hoid",
                   "type": "mention",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is 'Ol' Whitehair', mentioned in <a target='_blank' href='https://coppermind.net/wiki/Summary:Edgedancer#Chapter_12'>Chapter 12</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Summary:Edgedancer#Chapter_12'>第12章</a>中，<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>被称为“白发老妖”。"
                 }
               ],
               "categories": ["stormlight", "novella", "phase2", "published"],
@@ -1365,13 +1365,13 @@
             },
             {
               "id": "sa3",
-              "title": "Oathbringer",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Oathbringer'>Oathbringer</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "publication": "November 2017",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/309/#e10273'>Occurs after Mistborn Era 1 and Warbreaker but before Mistborn Era 2.</a>",
+              "title": "渡誓",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Oathbringer'>渡誓</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "publication": "2017年11月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/309/#e10273'>晚于迷雾之子第一纪元和《破战者》，早于迷雾之子第二纪元。</a>",
               "sorting": {
                 "order": 2.44,
                 "publication": 2017.11,
@@ -1381,12 +1381,12 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is 'Wit'."
+                  "description": "本作中的御前知策就是<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>。"
                 },
                 {
                   "id": "nazh",
                   "type": "mention",
-                  "description": "Several drawings and sketches include <a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a>'s annotations. Most notably, the <a target='_blank' href='https://coppermind.net/wiki/Glyphs'>glyphs</a> page is entirely written by him."
+                  "description": "本作中的部分插图有<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>的注释，其中的<a target='_blank' href='https://coppermind.net/wiki/Glyphs'>铭文</a>解析完全是他写的。"
                 },
                 {
                   "id": "ars",
@@ -1398,7 +1398,7 @@
                 {
                   "target": "twokp",
                   "type": "minor",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/The_Way_of_Kings_Prime'>The Way of Kings Prime</a>, written in 2002, is the original draft of <a target='_blank' href='https://coppermind.net/wiki/The_Way_of_Kings'>The Way of Kings</a>. Only small excerpts were released prior to <a target='_blank' href='https://coppermind.net/wiki/The_Way_of_Kings'>Oathbringer</a> as Brandon felt it contained spoilers for certain ideas through that book. It was self-published as a Sanderson Curiosity in July 2020."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/The_Way_of_Kings_Prime'>初版《王者之路》</a>写于2002年，在<a target='_blank' href='https://coppermind.net/wiki/Oathbringer'>《渡誓》</a>出版之前，官方为防剧透只公布了少量节选。2020年7月，作为“桑德森珍本”推出。"
                 },
                 {
                   "target": "yumi",
@@ -1409,13 +1409,13 @@
             },
             {
               "id": "sa3.5",
-              "title": "Dawnshard",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Dawnshard_(novella)'>Dawnshard</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "publication": "November 2020",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/406/#e13986'>Between Oathbringer and Rhythm of War.</a>",
+              "title": "晨瑛",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Dawnshard_(novella)'>晨瑛</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "publication": "2020年11月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/406/#e13986'>衔接《渡誓》和《纷争之韵》。</a>",
               "padding": 12,
               "sorting": {
                 "order": 2.45,
@@ -1433,13 +1433,13 @@
             },
             {
               "id": "sa4",
-              "title": "Rhythm of War",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Rhythm_of_War'>Rhythm of War</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "publication": "November 2020",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/309/#e10273'>Occurs after Mistborn Era 1 and Warbreaker but before Mistborn Era 2.</a>",
+              "title": "纷争之韵",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Stormlight_Archive_4'>纷争之韵</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "publication": "2020年11月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/309/#e10273'>晚于迷雾之子第一纪元和《破战者》，早于迷雾之子第二纪元。</a>",
               "sorting": {
                 "order": 2.46,
                 "publication": 2020.1117,
@@ -1449,12 +1449,12 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is 'Wit'."
+                  "description": "本作中的御前知策就是<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>。"
                 },
                 {
                   "id": "nazh",
                   "type": "mention",
-                  "description": "Several drawings and sketches include <a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a>'s annotations. Most notably, the <a target='_blank' href='https://coppermind.net/wiki/Glyphs'>glyphs</a> page is entirely written by him."
+                  "description": "本作中的部分插图有<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>的注释，其中的<a target='_blank' href='https://coppermind.net/wiki/Glyphs'>铭文</a>解析完全是他写的。"
                 },
                 {
                   "id": "ars",
@@ -1466,7 +1466,7 @@
                 {
                   "target": "dsp",
                   "type": "egg",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Microkinesis'>Microkinesis</a> referes to a type of magic from <a target='_blank' href='https://coppermind.net/wiki/Yolen'>Yolen</a> in <a target='_blank' href='https://coppermind.net/wiki/Dragonsteel Prime'>Dragonsteel Prime</a>."
+                  "description": "本作提到的<a target='_blank' href='https://coppermind.net/wiki/Microkinesis'>微动术</a>是<a target='_blank' href='https://coppermind.net/wiki/Yolen'>尤伦</a>的魔法，最初出现在<a target='_blank' href='https://coppermind.net/wiki/Dragonsteel'>《龙钢》</a>中。"
                 },
                 {
                   "target": "tress",
@@ -1489,11 +1489,11 @@
               "id": "sa5",
               "title": "Wind and Truth",
               "title2": "Wind and Truth",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
               "publication": "December 2024",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/309/#e10273'>Occurs after Mistborn Era 1 and Warbreaker but before Mistborn Era 2.</a> Some events in the finale overlap with Mistborn Era 2.",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/309/#e10273'>晚于迷雾之子第一纪元和《破战者》，早于迷雾之子第二纪元。</a>",
               "sorting": {
                 "order": 2.47,
                 "publication": 2024.12,
@@ -1503,14 +1503,14 @@
             },
             {
               "id": "sa5.5",
-              "title": "Horneater (2026)",
-              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2019/'>Horneater</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
+              "title": "吃角族（2026年）",
+              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2019/'>吃角族</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
               "padding": 12,
-              "chronology": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>Fills in what happened with Rock during and after the events of Rhythm of War.</a>",
-              "publication": "<a target='_blank' href='https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2024'>December 2026 (tentative).</a>",
+              "chronology": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>描述石头在《纷争之韵》事件之后的情况。</a>",
+              "publication": "<a target='_blank' href='https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2024'>暂定2026年</a>",
               "sorting": {
                 "publication": 2026.12,
                 "chronology": 7.045
@@ -1524,13 +1524,13 @@
             },
             {
               "id": "sa6",
-              "title": "Stormlight Archive 6",
-              "title2": "Stormlight Archive 6",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/61/#e1300'>There's a roughly 15 year gap between Stormlight 5 and 6.</a> <a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>Occurs after Mistborn Era 2 and before Mistborn Era 3.</a>",
-              "publication": "<a target='_blank' href='https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2024'>December 2031 (planned)</a>",
+              "title": "飓光志·卷六",
+              "title2": "飓光志·卷六",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/61/#e1300'>卷五与卷六之间约有15年的时间间隔。</a><a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>本作晚于迷雾之子第二纪元，早于迷雾之子第三纪元。</a>",
+              "publication": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>暂定2031年</a>",
               "sorting": {
                 "chronology": 9.06,
                 "publication": 2032
@@ -1544,12 +1544,12 @@
             },
             {
               "id": "sa7",
-              "title": "Stormlight Archive 7",
-              "title2": "Stormlight Archive 7",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/61/#e1300'>There's a roughly 15 year gap between Stormlight 5 and 6.</a> <a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>Occurs after Mistborn Era 2 and before Mistborn Era 3.</a>",
+              "title": "飓光志·卷七",
+              "title2": "飓光志·卷七",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/61/#e1300'>卷五与卷六之间约有15年的时间间隔。</a><a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>本作晚于迷雾之子第二纪元，早于迷雾之子第三纪元。</a>",
               "sorting": {
                 "chronology": 9.07
               },
@@ -1562,12 +1562,12 @@
             },
             {
               "id": "sa8",
-              "title": "Stormlight Archive 8",
-              "title2": "Stormlight Archive 8",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/61/#e1300'>There's a roughly 15 year gap between Stormlight 5 and 6.</a> <a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>Occurs after Mistborn Era 2 and before Mistborn Era 3.</a>",
+              "title": "飓光志·卷八",
+              "title2": "飓光志·卷八",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/61/#e1300'>卷五与卷六之间约有15年的时间间隔。</a><a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>本作晚于迷雾之子第二纪元，早于迷雾之子第三纪元。</a>",
               "sorting": {
                 "chronology": 9.08
               },
@@ -1580,12 +1580,12 @@
             },
             {
               "id": "sa9",
-              "title": "Stormlight Archive 9",
-              "title2": "Stormlight Archive 9",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/61/#e1300'>There's a roughly 15 year gap between Stormlight 5 and 6.</a> <a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>Occurs after Mistborn Era 2 and before Mistborn Era 3.</a>",
+              "title": "飓光志·卷九",
+              "title2": "飓光志·卷九",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/61/#e1300'>卷五与卷六之间约有15年的时间间隔。</a><a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>本作晚于迷雾之子第二纪元，早于迷雾之子第三纪元。</a>",
               "sorting": {
                 "chronology": 9.09
               },
@@ -1598,12 +1598,12 @@
             },
             {
               "id": "sa10",
-              "title": "Stormlight Archive 10",
-              "title2": "Stormlight Archive 10",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/61/#e1300'>There's a roughly 15 year gap between Stormlight 5 and 6.</a> <a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>Occurs after Mistborn Era 2 and before Mistborn Era 3.</a>",
+              "title": "飓光志·卷十",
+              "title2": "飓光志·卷十",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/61/#e1300'>卷五与卷六之间约有15年的时间间隔。</a><a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>本作晚于迷雾之子第二纪元，早于迷雾之子第三纪元。</a>",
               "sorting": {
                 "chronology": 9.1
               },
@@ -1632,11 +1632,11 @@
             },
             {
               "id": "tdatd",
-              "title": "The Dog and the Dragon",
-              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>The Dog and the Dragon picture book</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
+              "title": "狗和龙",
+              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>《狗和龙》绘本</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
               "padding": 12,
               "categories": [
                 "stormlight",
@@ -1647,11 +1647,11 @@
             },
             {
               "id": "tgwlu",
-              "title": "The Girl Who Looked Up",
-              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>The Girl Who Looked Up picture book</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
+              "title": "仰望的女孩",
+              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>《仰望的女孩》绘本</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
               "padding": 12,
               "categories": [
                 "stormlight",
@@ -2220,12 +2220,13 @@
           "children": [
             {
               "id": "tsd",
-              "title": "The Silence Divine",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Silence_Divine'>The Silence Divine</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Ashyn'>Ashyn</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "link": "<a target='_blank' href='https://wob.coppermind.net/events/201/#e12303'>Excerpt on Arcanum.</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/370/#e11901'>Occurs late in the Stormlight Archive era, around book 8.</a>",
+              "title": "圣法无声",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Silence_Divine'>圣法无声</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Ashyn'>埃辛</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "link": "<a target='_blank' href='https://wob.coppermind.net/events/201/#e12303'>阅读节选</a>",
+              "publication": "2014年3月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/370/#e11901'>发生于《飓光志》卷八前后。</a>",
               "sorting": {
                 "chronology": 9.081
               },
@@ -2239,7 +2240,7 @@
                 {
                   "target": "sa3",
                   "type": "minor",
-                  "description": "The Silence Divine is set on <a target='_blank' href='https://coppermind.net/wiki/Ashyn'>Ashyn</a>, the world that the humans fled to <a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a> from."
+                  "description": "本作发生在<a target='_blank' href='https://coppermind.net/wiki/Ashyn'>埃辛</a>，那里的人类曾迁至<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>。"
                 }
               ]
             },
