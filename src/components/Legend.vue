@@ -30,7 +30,7 @@
         <p>3）箭头表示作品间的关联，箭头所指的作品含有触发箭头的作品的内容。箭头的式样表示该穿越的重要程度，也可作为阅读顺序的参考。单击作品以查看信息，出现相关的箭头也会同时出现。单击箭头可以查看详情。</p>
         <p>4）未出版作品最终未必会得到出版。</p>
         <div class="legend-feedback">
-          <h2>Feedback</h2>
+          <h2>反馈</h2>
           <ul class="feedback">
             <li><a href="mailto:joshua@17thshard.com">Email</a></li>
             <li><a href="https://github.com/17thshard/reading-order/issues/new">Github</a></li>
