@@ -1665,24 +1665,24 @@
       ]
     },
     {
-      "label": "Taldain",
+      "label": "泰尔丹",
       "color": "#9e9957",
       "children": [
         {
-          "label": "White Sand",
+          "label": "白沙",
           "color": "#9e9957",
           "children": [
             {
               "id": "wsgn",
-              "title": "White Sand (graphic novels)",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/White_Sand'>White Sand, Volumes 1-3</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/White_Sand'>White Sand</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Taldain'>Taldain</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Taldain_system'>Taldain system</a>",
+              "title": "白沙（图像小说）",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/White_Sand_Volume_1'>白沙·卷一至卷三</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/White_Sand'>白沙</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Taldain'>泰尔丹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Taldain_system'>泰尔丹星系</a>",
               "padding": 12,
-              "au": "Excerpt included in <a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>Arcanum Unbounded</a>.",
-              "publication": "June 2016",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/182/#e3878'>White Sand occurs prior to Elantris.</a>",
+              "au": "节选收录于<a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>《奥秘全书》</a>。",
+              "publication": "2016年6月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/182/#e3878'>早于《伊岚翠》。</a>",
               "sorting": {
                 "order": 1.51,
                 "publication": 2016.06,
@@ -1692,12 +1692,12 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is the hooded man with a stringed instrument who first appears in <a target='_blank' href='https://coppermind.net/wiki/Ais'>Ais</a>'s first scene in the middle of <a target='_blank' href='https://coppermind.net/wiki/Summary:White_Sand#Chapter_4:_Divides'>Chapter 4</a>. He plays a song in the <a target='_blank' href='https://coppermind.net/wiki/Summary:White_Sand#Epilogue'>Epilogue</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Summary:White_Sand_Volume_1#Chapter_4:_Divides'>第4回</a>中段<a target='_blank' href='https://coppermind.net/wiki/Ais'>阿伊丝</a>的第一个场景中，戴兜帽、手持弦乐器的男子就是<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>。"
                 },
                 {
                   "id": "khriss",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>Khriss</a> is a main character."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>克丽丝</a>是本作的主角之一。"
                 }
               ],
               "categories": ["white-sand", "phase1", "published", "graphic"],
@@ -1710,12 +1710,12 @@
                 {
                   "target": "sa4",
                   "type": "minor",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Taldain'>Taldain</a> is referenced in <a target='_blank' href='https://coppermind.net/wiki/Ialai'>Ialai's</a> notes. <a target='_blank' href='https://coppermind.net/wiki/Navani_Kholin'>Navani</a> uses <a target='_blank' href='https://coppermind.net/wiki/Sand_(Taldain)'>sand from Taldain</a> to measure <a target='_blank' href='https://coppermind.net/wiki/Investiture'>Investiture</a> in her experiments."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Ialai'>雅莱</a>的笔记提到了<a target='_blank' href='https://coppermind.net/wiki/Taldain'>泰尔丹</a>。<a target='_blank' href='https://coppermind.net/wiki/Navani_Kholin'>纳瓦妮在实验中</a>使用了<a target='_blank' href='https://coppermind.net/wiki/Sand_(Taldain)'>白沙</a>来测量<a target='_blank' href='https://coppermind.net/wiki/Investiture'>神能</a>。"
                 },
                 {
                   "target": "au",
                   "type": "minor",
-                  "description": "The <a target='_blank' href='https://coppermind.net/wiki/Taldain_system'>Taldain system</a> essay discusses <a target='_blank' href='https://coppermind.net/wiki/Taldain'>Taldain</a> and <a target='_blank' href='https://coppermind.net/wiki/Sand_mastery'>sand mastery</a>."
+                  "description": "本作的<a target='_blank' href='https://coppermind.net/wiki/Taldain_system'>泰尔丹星系</a>篇章探讨了<a target='_blank' href='https://coppermind.net/wiki/Taldain'>泰尔丹</a>和<a target='_blank' href='https://coppermind.net/wiki/Sand_mastery'>御沙术</a>的情况。"
                 },
                 {
                   "target": "tsm",
@@ -1746,13 +1746,13 @@
               ]
             },
             {
-              "id": "arcanist",
-              "title": "The Arcanist",
-              "title2": "The Arcanist",
-              "series": "None",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Taldain'>Taldain</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Taldain_system'>Taldain system</a>",
-              "chronology": "Described as a sequel, so presumably occurs shortly after White Sand.",
+              "label": "秘法学家",
+              "title": "秘法学家",
+              "title2": "秘法学家",
+              "series": "无",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Taldain'>泰尔丹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Taldain_system'>泰尔丹星系</a>",
+              "chronology": "《白沙》的续集。",
               "sorting": {
                 "chronology": 2.5
               },
