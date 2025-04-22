@@ -262,21 +262,21 @@
   ],
   "books": [
     {
-      "label": "Sel",
+      "label": "瑟尔",
       "color": "#58b06e",
       "children": [
         {
-          "label": "Elantris",
+          "label": "伊岚翠",
           "children": [
             {
               "id": "elantris",
-              "title": "Elantris",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Elantris'>Elantris</a>",
-              "series": "Elantris",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>Sel</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>Selish system</a>",
-              "publication": "April 2005",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/298/#e9926'>Occurs long before Mistborn Era 1, but not thousands of years before.</a> However, this is <a target='_blank' href='https://wob.coppermind.net/events/509/#e15991'>subject to change.</a>",
+              "title": "伊岚翠",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Elantris'>伊岚翠</a>",
+              "series": "伊岚翠",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>瑟尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>瑟尔星系</a>",
+              "publication": "2005年4月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/298/#e9926'>远早于《迷雾之子》第一纪元，但时间间隔不超过数千年。</a> 但这一设定<a target='_blank' href='https://wob.coppermind.net/events/509/#e15991'>可能会改变。</a>",
               "sorting": {
                 "order": 1.21,
                 "publication": 2005.04,
@@ -286,12 +286,12 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a>'s first appearance. <a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is the beggar that works with <a target='_blank' href='https://coppermind.net/wiki/Sarene'>Sarene</a> in <a target='_blank' href='https://coppermind.net/wiki/Summary:Elantris#Chapter_58'>Chapter 58</a>. The tenth anniversary edition includes <a target='_blank' href='https://coppermind.net/wiki/Summary:Elantris#Postscript'>a postscript</a> with <a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> in it."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>首次出场，在<a target='_blank' href='https://coppermind.net/wiki/Summary:Elantris#Chapter_58'>第58章</a>扮成乞丐帮助了<a target='_blank' href='https://coppermind.net/wiki/Sarene'>莎睿妮</a>王妃。十周年纪念版在末尾收录了以他为主角的<a target='_blank' href='https://coppermind.net/wiki/Summary:Elantris#Postscript'>彩蛋章节</a>。"
                 },
                 {
                   "id": "nazh",
                   "type": "mention",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a>'s annotations can be found on the map of <a target='_blank' href='https://coppermind.net/wiki/Sycla'>Sycla</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Sycla'>西客来大陆</a>的地图上能找到<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>的注释。"
                 },
                 {
                   "id": "ars",
@@ -303,32 +303,32 @@
                 {
                   "target": "tes",
                   "type": "minor",
-                  "description": "The map in <a target='_blank' href='https://coppermind.net/wiki/Elantris'>Elantris</a> refers to '<a target='_blank' href='https://coppermind.net/wiki/Rose_Empire'>Rose Barbarians</a>'. There are mentions of <a target='_blank' href='https://coppermind.net/wiki/Svorden'>Svorden</a>, <a target='_blank' href='https://coppermind.net/wiki/Teod'>Teod</a>, and <a target='_blank' href='https://coppermind.net/wiki/Sycla'>Sycla</a>. When escaping the palace, <a target='_blank' href='https://coppermind.net/wiki/Shai'>Shai</a> runs into a <a target='_blank' href='https://coppermind.net/wiki/Shu-Dereth'>Derethi priest</a> (wearing red armor). When she steals the painting she inscribes an <a target='_blank' href='https://coppermind.net/wiki/Aon'>Aon Reo</a> in its place."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Elantris'>《伊岚翠》</a>收录的地图提到了“<a target='_blank' href='https://coppermind.net/wiki/Rose_Empire'>玫瑰蛮荒</a>”。《皇帝魂》提到了<a target='_blank' href='https://coppermind.net/wiki/Svorden'>斯沃旦</a>、<a target='_blank' href='https://coppermind.net/wiki/Teod'>泰奥德</a>和<a target='_blank' href='https://coppermind.net/wiki/Sycla'>西客来大陆</a>。在窃取画作后，<a target='_blank' href='https://coppermind.net/wiki/Shai'>阿思</a>在画框正中央的墙上刻下了<a target=‚_blank' href='https://coppermind.net/wiki/Aon'>“里奥”符文</a>。而在逃离宫殿时，她撞见了一位身穿红盔甲的<a target='_blank' href='https://coppermind.net/wiki/Shu-Dereth'>德雷西教士</a>。"
                 },
                 {
                   "target": "msh",
                   "type": "significant",
-                  "description": "The <a target='_blank' href='https://coppermind.net/wiki/Ire'>Ire</a> are <a target='_blank' href='https://coppermind.net/wiki/Elantrian'>Elantrians</a>. Their symbol is <a target='_blank' href='https://coppermind.net/wiki/Aon'>Aon Ire</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Ire'>埃瑞会</a>是<a target='_blank' href='https://coppermind.net/wiki/Elantrian'>伊岚翠人</a>的一个组织，会标是<a target='_blank' href='https://coppermind.net/wiki/Aon'>“艾欧·埃瑞”符文</a>。"
                 },
                 {
                   "target": "sa1",
                   "type": "egg",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Galladon'>Galladon</a> appears in <a target='_blank' href='https://coppermind.net/wiki/Summary:The_Way_of_Kings#Interlude_I-1:_Ishikk'>Interlude I-1</a> as 'Grump'. Note his use of 'sule' (friend) and 'kolo' (understand) as well as the <a target='_blank' href='https://coppermind.net/wiki/Duladel'>Dula</a> word 'kayana' (crazy). Also, <a target='_blank' href='https://coppermind.net/wiki/Aona'>Aona</a> and <a target='_blank' href='https://coppermind.net/wiki/Skai'>Skai</a> are mentioned in the <a target='_blank' href='https://coppermind.net/wiki/https://coppermind.net/wiki/The_Way_of_Kings/Epigraphs#The_Letter'>Chapter 22 epigraph</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Galladon'>加拉顿</a>以“不高兴”的身份出现在<a target='_blank' href='https://coppermind.net/wiki/Summary:The_Way_of_Kings#Interlude_I-1:_Ishikk'>插曲1</a>中。请留意他的<a target='_blank' href='https://coppermind.net/wiki/Duladel'>杜拉德</a>口语用法：“苏雷”（朋友）、“可喽”（没错吧）和“喀哑讷”（疯癫）。另外，<a target='_blank' href='https://coppermind.net/wiki/https://coppermind.net/wiki/The_Way_of_Kings/Epigraphs#The_Letter'>《王者之路》第22章的题词</a>提到了<a target='_blank' href='https://coppermind.net/wiki/Aona'>艾欧娜</a>和<a target='_blank' href='https://coppermind.net/wiki/Skai'>斯凯</a>。"
                 },
                 {
                   "target": "sa3",
                   "type": "minor",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Riino'>Riino</a>, the lighthouse owner in <a target='_blank' href='https://coppermind.net/wiki/Summary:Oathbringer#Chapter_97:_Riino'>Chapter 97</a>, is the <a target='_blank' href='https://coppermind.net/wiki/Hoed'>Hoed</a> <a target='_blank' href='https://coppermind.net/wiki/Raoden'>Raoden</a> and <a target='_blank' href='https://coppermind.net/wiki/Galladon'>Galladon</a> lowered into the <a target='_blank' href='https://coppermind.net/wiki/Devotion's_Perpendicularity'>mountain lake</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Summary:Oathbringer#Chapter_97:_Riino'>《渡誓》第97章</a>出现的灯塔看守<a target='_blank' href='https://coppermind.net/wiki/Riino'>莱埃诺</a>是<a target='_blank' href='https://coppermind.net/wiki/Raoden'>雷奥登</a>和<a target='_blank' href='https://coppermind.net/wiki/Galladon'>加拉顿</a>在<a target='_blank' href='https://coppermind.net/wiki/Devotion's_Perpendicularity'>山上的湖中</a>送走的<a target='_blank' href='https://coppermind.net/wiki/Hoed'>虚客</a>。"
                 },
                 {
                   "target": "au",
                   "type": "minor",
-                  "description": "The nature of <a target='_blank' href='https://coppermind.net/wiki/Sel'>Sel</a>'s magic is discussed in the <a target='_blank' href='https://coppermind.net/wiki/Selish_system'>Selish system</a> essay."
+                  "description": "本作的<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>瑟尔星系</a>篇章探讨了<a target='_blank' href='https://coppermind.net/wiki/Sel'>瑟尔</a>的魔法。"
                 },
                 {
                   "target": "sa4",
                   "type": "minor",
-                  "description": "The communication box used by <a target='_blank' href='https://coppermind.net/wiki/Shallan'>Shallan</a> to communicate with <a target='_blank' href='https://coppermind.net/wiki/Mraize'>Mraize</a> and <a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> contains a <a target='_blank' href='https://coppermind.net/wiki/Seon'>Seon</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Shallan'>沙兰</a>联络<a target='_blank' href='https://coppermind.net/wiki/Mraize'>穆里兹</a>和<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>时用的盒子里装着一只<a target='_blank' href='https://coppermind.net/wiki/Seon'>侍灵</a>。"
                 },
                 {
                   "target": "mb7",
@@ -349,16 +349,16 @@
             },
             {
               "id": "thoe",
-              "title": "The Hope of Elantris",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Hope_of_Elantris'>The Hope of Elantris</a>",
-              "series": "Elantris",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>Sel</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>Selish system</a>",
-              "au": "Included in <a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>Arcanum Unbounded</a>.",
-              "link": "<a target='_blank' href='https://brandonsanderson.com/elantris-the-hope-of-elantris'>Full text on Brandon's website.</a>",
+              "title": "伊岚翠的希望",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Hope_of_Elantris'>伊岚翠的希望</a>",
+              "series": "伊岚翠",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>瑟尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>瑟尔星系</a>",
+              "au": "收录于<a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>《奥秘全书》</a>。",
+              "link": "<a target='_blank' href='https://brandonsanderson.com/elantris-the-hope-of-elantris'>阅读全文</a>。",
               "padding": 12,
-              "publication": "January 2006",
-              "chronology": "Shortly after the events of Elantris, and concerning events during the end of that book.",
+              "publication": "2006年1月",
+              "chronology": "略晚于《伊岚翠》，与该作结尾的事件相关。",
               "sorting": {
                 "order": 1.22,
                 "publication": 2006.01,
@@ -368,12 +368,12 @@
             },
             {
               "id": "elantris2",
-              "title": "Elantris 2",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Elantris_sequel'>Elantris 2</a>",
-              "series": "Elantris",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>Sel</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>Selish system</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/395/#e13072'>A short time jump is planned</a> between Elantris books, with the original main characters still being alive. But this is <a target='_blank' href='https://wob.coppermind.net/events/509/#e15991'>subject to change.</a>",
+              "title": "伊岚翠·续",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Elantris_sequel'>伊岚翠·续</a>",
+              "series": "伊岚翠",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>瑟尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>瑟尔星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/395/#e13072'>每一卷之间都有年代跨度，正传主角仍会出场。</a>但这一设定<a target='_blank' href='https://wob.coppermind.net/events/509/#e15991'>也许会变更。</a>",
               "publication": "<a target='_blank' href='https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2024'>Summer 2029 (planned)</a>",
               "sorting": {
                 "chronology": 3.2,
@@ -383,12 +383,12 @@
             },
             {
               "id": "elantris3",
-              "title": "Elantris 3",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Elantris_finale'>Elantris 3</a>",
-              "series": "Elantris",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>Sel</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>Selish system</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/395/#e13072'>A short time jump is planned</a> between Elantris books, with the original main characters still being alive. But this is <a target='_blank' href='https://wob.coppermind.net/events/509/#e15991'>subject to change.</a>",
+              "title": "伊岚翠·终",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Elantris_finale'>伊岚翠·终</a>",
+              "series": "伊岚翠",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>瑟尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>瑟尔星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/395/#e13072'>每一卷之间都有年代跨度，正传主角仍会出场。</a>但这一设定<a target='_blank' href='https://wob.coppermind.net/events/509/#e15991'>也许会变更。</a>",
               "publication": "<a target='_blank' href='https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2024'>Summer 2030 (planned)</a>",
               "sorting": {
                 "chronology": 3.3,
@@ -402,13 +402,13 @@
           "children": [
             {
               "id": "tes",
-              "title": "The Emperor's Soul",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Emperor&#39s_Soul'>The Emperor's Soul</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>Sel</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>Selish system</a>",
-              "au": "Included in <a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>Arcanum Unbounded</a>.",
-              "publication": "November 2012",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/109/#e1410'>After Elantris, but within the characters' lifetimes.</a> Note this could place it prior to Elantris 2 and/or 3.",
+              "title": "皇帝魂",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Emperor's_Soul>皇帝魂</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>瑟尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>瑟尔星系</a>",
+              "au": "收录于<a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>《奥秘全书》</a>。",
+              "publication": "2012年11月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/109/#e1410'>晚于《伊岚翠》，但该作主角仍在世。</a>可能早于《伊岚翠·续》和/或《伊岚翠·终》。",
               "sorting": {
                 "order": 1.31,
                 "publication": 2012.11,
@@ -418,7 +418,7 @@
                 {
                   "id": "hoid",
                   "type": "mention",
-                  "description": "The 'Imperial Fool' is <a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a>."
+                  "description": "本作中的“皇家弄臣”就是<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>。"
                 }
               ],
               "categories": ["no-series", "phase1", "published", "novella"],
@@ -426,17 +426,17 @@
                 {
                   "target": "imperial-fool",
                   "type": "major",
-                  "description": "A deleted prologue that contains some canonical elements."
+                  "description": "含有官方内容的序章，在编校过程中被删。"
                 },
                 {
                   "target": "au",
                   "type": "minor",
-                  "description": "The nature of <a target='_blank' href='https://coppermind.net/wiki/Sel'>Sel</a>'s magic is discussed in the <a target='_blank' href='https://coppermind.net/wiki/Selish_system'>Selish system</a> essay."
+                  "description": "本作的<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>瑟尔星系</a>篇章探讨了<a target='_blank' href='https://coppermind.net/wiki/Sel'>瑟尔</a>的魔法。"
                 },
                 {
                   "target": "sa4",
                   "type": "egg",
-                  "description": "The <a target='_blank' href='https://coppermind.net/wiki/Fused'>Fused</a> refer to <a target='_blank' href='https://coppermind.net/wiki/aluminum'>aluminum</a> as Ralkalest."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Fused'>融族</a>所说的“拉卡莱铁”就是<a target='_blank' href='https://coppermind.net/wiki/aluminum'>铝</a>。"
                 },
                 {
                   "target": "mb7",
@@ -447,10 +447,10 @@
             },
             {
               "id": "tes2",
-              "title": "The Emperor's Soul sequel",
-              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>Untitled Emperor's Soul sequel</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>Sel</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>Selish system</a>",
+              "title": "皇帝魂·续",
+              "title2": "<a target='_blank' href='https://www.brandonsanderson.com/state-of-the-sanderson-2020/'>皇帝魂·续</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>瑟尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>瑟尔星系</a>",
               "categories": [
                 "no-series",
                 "unpublished",
