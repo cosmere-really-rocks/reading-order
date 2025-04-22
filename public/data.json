@@ -2325,21 +2325,21 @@
       ]
     },
     {
-      "label": "Mixed",
+      "label": "伪作",
       "color": "#a0a0a0",
       "children": [
         {
           "children": [
             {
               "id": "wsp",
-              "title": "White Sand (prose)",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/White_Sand_(prose)'>White Sand (prose)</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Taldain'>Taldain</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Taldain_system'>Taldain system</a>",
-              "au": "Excerpt included in <a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>Arcanum Unbounded.</a>.",
-              "link": "<a target='_blank' href='https://brandonsanderson.com/newsletter-signup/'>Link to full text found in Brandon's newsletter.</a>",
-              "publication": "June 2009 (upon request)",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/182/#e3878'>White Sand occurs prior to Elantris.</a>",
+              "title": "白沙（小说版）",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/White_Sand_(prose)'>白沙（小说版）/a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Taldain'>泰尔丹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Taldain_system'>泰尔丹星系</a>",
+              "au": "节选收录于<a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>《奥秘全书》</a>。",
+              "link": "<a target='_blank' href='https://brandonsanderson.com/newsletter-signup/'>可通过桑德森的邮件订阅获取全文链接。</a>",
+              "publication": "2009年6月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/182/#e3878'>早于《伊岚翠》。</a>",
               "sorting": {
                 "order": 1.54,
                 "publication": 2009.06,
@@ -2349,7 +2349,7 @@
                 {
                   "id": "khriss",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>Khriss</a> is a main character."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>克丽丝</a>是本作的主角之一。"
                 }
               ],
               "categories": ["white-sand", "novel", "apocryphal", "other-pub"],
@@ -2357,18 +2357,18 @@
                 {
                   "target": "wsgn",
                   "type": "minor",
-                  "description": "The <a target='_blank' href='https://coppermind.net/wiki/White_Sand'>White Sand</a> graphic novels are based on the prose version."
+                  "description": "图像小说版<a target='_blank' href='https://coppermind.net/wiki/White_Sand'>《白沙》</a>改编自小说版。"
                 }
               ]
             },
             {
               "id": "aon",
-              "title": "Aether of Night",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Aether_of_Night'>Aether of Night</a>",
+              "title": "暗夜以太",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Aether_of_Night'>暗夜以太</a>",
               "world": "Unknown",
               "system": "Unknown",
-              "link": "<a target='_blank' href='https://www.17thshard.com/forum/topic/60219-aether-of-night-manuscript-requests/'>Full text available from the 17th Shard.</a>",
-              "publication": "June 2009 (upon request)",
+              "link": "<a target='_blank' href='https://www.17thshard.com/forum/topic/60219-aether-of-night-manuscript-requests/'>可通过官方论坛获取全文。</a>",
+              "publication": "2009年6月",
               "sorting": {
                 "order": 1.8,
                 "publication": 2009.06
@@ -2378,17 +2378,17 @@
                 {
                   "target": "sa2",
                   "type": "egg",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Mraize'>Mraize</a>'s collection in <a target='_blank' href='https://coppermind.net/wiki/Summary:Words_of_Radiance#Chapter_43:_The_Ghostbloods'>Chapter 43</a> includes pink <a target='_blank' href='https://coppermind.net/wiki/Aether'>aether</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Summary:Words_of_Radiance#Chapter_43:_The_Ghostbloods'>第43章</a>中，<a target='_blank' href='https://coppermind.net/wiki/Mraize'>穆里兹</a>的收藏包括粉色的<a target='_blank' href='https://coppermind.net/wiki/Aether'>以太</a>晶体。"
                 },
                 {
                   "target": "sa3",
                   "type": "egg",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Mraize'>Mraize</a> mentions his suit was stained with <a target='_blank' href='https://coppermind.net/wiki/Aether'>aether</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Mraize'>穆里兹</a>提到他的骑装沾染了<a target='_blank' href='https://coppermind.net/wiki/Aether'>以太</a>渍。"
                 },
                 {
                   "target": "sa4",
                   "type": "egg",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Foil'>Foil</a> is said to be seeking 'control over the <a target='_blank' href='https://coppermind.net/wiki/Aether'>aethers</a>'."
+                  "description": "据说<a target='_blank' href='https://coppermind.net/wiki/Foil'>福伊尔</a>正试图对<a target='_blank' href='https://coppermind.net/wiki/Aether'>以太</a>加以控制。"
                 },
                 {
                   "target": "mb7",
@@ -2404,13 +2404,13 @@
             },
             {
               "id": "imperial-fool",
-              "title": "Imperial Fool",
-              "title2": "Imperial Fool",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>Sel</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>Selish system</a>",
-              "link": "<a target='_blank' href='https://brandonsanderson.com/the-emperors-soul-deleted-prologue-imperial-fool'>Full text on Brandon's website.</a>",
-              "publication": "November 2012",
-              "chronology": "Concerns events shortly before the events of The Emperor's Soul.",
+              "title": "皇家弄臣",
+              "title2": "皇家弄臣",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Sel'>瑟尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Selish_system'>瑟尔星系</a>",
+              "link": "<a target='_blank' href='https://brandonsanderson.com/the-emperors-soul-deleted-prologue-imperial-fool'>阅读全文</a>。",
+              "publication": "2012年11月",
+              "chronology": "与《皇帝魂》稍早之前的事件相关。",
               "sorting": {
                 "order": 1.31,
                 "publication": 2012.11,
@@ -2420,7 +2420,7 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is the 'Imperial Fool'."
+                  "description": "本作中的“皇家弄臣”就是<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>。"
                 }
               ],
               "categories": ["no-series", "short", "apocryphal", "other-pub"]
@@ -2440,13 +2440,13 @@
             },
             {
               "id": "twokp",
-              "title": "The Way of Kings Prime",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Way_of_Kings_Prime'>The Way of Kings Prime</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "link": "<a target='_blank' href='https://www.brandonsanderson.com/the-way-of-kings-prime/'>Full novel on Brandon's website.</a>",
-              "publication": "July 2020",
+              "title": "王者之路（初版）",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Way_of_Kings_Prime'>王者之路（初版）</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "link": "<a target='_blank' href='https://www.brandonsanderson.com/the-way-of-kings-prime/'>阅读全文</a>。",
+              "publication": "2020年7月",
               "sorting": {
                 "order": 2.445,
                 "publication": 2020.07
@@ -2455,14 +2455,14 @@
             },
             {
               "id": "jasnah",
-              "title": "Jasnah deleted scene",
-              "title2": "Jasnah deleted scene",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>Stormlight Archive</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>Roshar</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>Rosharan system</a>",
-              "link": "<a target='_blank' href='https://www.tor.com/2014/08/06/stormlight-archive-scene-after-words-of-radiance'>Full text on Tor.com.</a>",
-              "publication": "August 2014",
-              "chronology": "Occurs during the early events of Words of Radiance.",
+              "title": "迦熙娜在裂影界",
+              "title2": "迦熙娜视点的被删场景",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/The_Stormlight_Archive'>飓光志</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Roshar'>柔刹</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Rosharan_system'>柔刹星系</a>",
+              "link": "<a target='_blank' href='https://www.tor.com/2014/08/06/stormlight-archive-scene-after-words-of-radiance'>阅读全文</a>。",
+              "publication": "2014年8月",
+              "chronology": "发生于《光辉真言》前期。",
               "sorting": {
                 "order": 2.421,
                 "publication": 2014.08,
@@ -2472,13 +2472,13 @@
             },
             {
               "id": "traveler",
-              "title": "The Traveler",
-              "title2": "The Traveler",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Yolen'>Yolen</a>",
-              "system": "Yolish system",
-              "link": "<a target='_blank' href='https://wob.coppermind.net/events/332/#e9518'>Full text on Arcanum.</a>",
-              "publication": "April 2018",
-              "chronology": "Occurs shortly after Mistborn Era 1.",
+              "title": "旅者归来",
+              "title2": "旅者归来",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Yolen'>尤伦</a>",
+              "system": "尤伦星系",
+              "link": "<a target='_blank' href='https://wob.coppermind.net/events/332/#e9518'>阅读全文</a>。",
+              "publication": "2018年4月",
+              "chronology": "略晚于迷雾之子第一纪元。",
               "sorting": {
                 "order": 2.26,
                 "publication": 2018.04,
@@ -2488,7 +2488,7 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is 'the Traveler'."
+                  "description": "本作中的“旅者”就是<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>。"
                 }
               ],
               "categories": ["no-series", "short", "apocryphal", "other-pub"]
