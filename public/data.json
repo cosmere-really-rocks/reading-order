@@ -2007,20 +2007,20 @@
       ]
     },
     {
-      "label": "Yolen",
+      "label": "尤伦",
       "color": "#d98a41",
       "children": [
         {
-          "label": "Dragonsteel",
+          "label": "龙钢",
           "children": [
             {
               "id": "d1",
-              "title": "Dragonsteel 1",
-              "title2": "Dragonsteel 1",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Dragonsteel'>Dragonsteel</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Yolen'>Yolen</a>",
-              "system": "Yolish system",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/103/#e1024'>Dragonsteel is the first series in the cosmere storyline.</a>",
+              "title": "龙钢·卷一",
+              "title2": "龙钢·卷一",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Dragonsteel'>龙钢</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Yolen'>尤伦</a>",
+              "system": "尤伦星系",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/103/#e1024'>三界宙前传。</a>",
               "sorting": {
                 "chronology": 1.1
               },
@@ -2033,12 +2033,12 @@
             },
             {
               "id": "d2",
-              "title": "Dragonsteel 2",
-              "title2": "Dragonsteel 2",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Dragonsteel'>Dragonsteel</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Yolen'>Yolen</a>",
-              "system": "Yolish system",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/103/#e1024'>Dragonsteel is the first series in the cosmere storyline.</a>",
+              "title": "龙钢·卷二",
+              "title2": "龙钢·卷二",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Dragonsteel'>龙钢</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Yolen'>尤伦</a>",
+              "system": "尤伦星系",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/103/#e1024'>三界宙前传。</a>",
               "sorting": {
                 "chronology": 1.2
               },
@@ -2051,12 +2051,12 @@
             },
             {
               "id": "d3",
-              "title": "Dragonsteel 3",
-              "title2": "Dragonsteel 3",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Dragonsteel'>Dragonsteel</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Yolen'>Yolen</a>",
-              "system": "Yolish system",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/103/#e1024'>Dragonsteel is the first series in the cosmere storyline.</a>",
+              "title": "龙钢·卷三",
+              "title2": "龙钢·卷三",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Dragonsteel'>龙钢</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Yolen'>尤伦</a>",
+              "system": "尤伦星系",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/103/#e1024'>三界宙前传。</a>",
               "sorting": {
                 "chronology": 1.3
               },
