@@ -463,21 +463,21 @@
       ]
     },
     {
-      "label": "Scadrial",
+      "label": "司卡德瑞尔",
       "color": "#9973bf",
       "children": [
         {
-          "label": "Mistborn<br>Era 1",
+          "label": "迷雾之子<br>第一纪元",
           "children": [
             {
               "id": "mb1",
-              "title": "Mistborn: The Final Empire",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn:_The_Final_Empire'>Mistborn: The Final Empire</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 1)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "publication": "July 2006",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/176/#e8494'>Mistborn Era 1 occurs prior to The Stormlight Archive.",
+              "title": "迷雾之子：最后帝国",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn:_The_Final_Empire'>迷雾之子：最后帝国</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第一纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "publication": "2006年7月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/176/#e8494'>早于《飓光志》。</a>",
               "sorting": {
                 "order": 1.11,
                 "publication": 2006.07,
@@ -487,12 +487,12 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Kelsier'>Kelsier</a> meets with <a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> in <a target='_blank' href='https://coppermind.net/wiki/Summary:Mistborn:_The_Final_Empire#Chapter_19'>Chapter 19</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Kelsier'>卡西尔</a>在<a target='_blank' href='https://coppermind.net/wiki/Summary:Mistborn:_The_Final_Empire#Chapter_19'>第19章</a>与<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>会面。"
                 },
                 {
                   "id": "nazh",
                   "type": "mention",
-                  "description": "Annotations by <a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a> can be found on the map of <a target='_blank' href='https://coppermind.net/wiki/Luthadel'>Luthadel</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Luthadel'>陆沙德</a>地图上能找到<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>的注释。"
                 },
                 {
                   "id": "ars",
@@ -520,15 +520,15 @@
             },
             {
               "id": "11m",
-              "title": "The Eleventh Metal",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Eleventh_Metal'>The Eleventh Metal</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 1)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "au": "Included in <a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>Arcanum Unbounded</a>.",
+              "title": "第十一种金属",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Eleventh_Metal'>第十一种金属</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第一纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "au": "收录于<a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>《奥秘全书》</a>。",
               "padding": 12,
-              "publication": "December 2011",
-              "chronology": "Concerns Kelsier's training, years before Mistborn: The Final Empire.",
+              "publication": "2011年12月",
+              "chronology": "讲述卡西尔的求学经历，发生在《迷雾之子：最后帝国》数年前。",
               "sorting": {
                 "order": 1.14,
                 "publication": 2011.12,
@@ -538,13 +538,13 @@
             },
             {
               "id": "mb2",
-              "title": "The Well of Ascension",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Well_of_Ascension'>The Well of Ascension</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 1)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "publication": "August 2007",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/176/#e8494'>Mistborn Era 1 occurs prior to The Stormlight Archive.",
+              "title": "升华之井",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Well_of_Ascension'>升华之井</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第一纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "publication": "2007年8月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/176/#e8494'>早于《飓光志》。</a>",
               "sorting": {
                 "order": 1.12,
                 "publication": 2007.08,
@@ -554,12 +554,12 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is among the <a target='_blank' href='https://coppermind.net/wiki/Terris'>Terris</a> refugees in <a target='_blank' href='https://coppermind.net/wiki/Summary:The_Well_of_Ascension#Chapter_56'>Chapter 56</a>, <a target='_blank' href='https://wob.coppermind.net/events/130/#e1552'>according to Brandon</a>."
+                  "description": "<a target='_blank' href='https://wob.coppermind.net/events/130/#e1552'>桑德森表示</a>，在<a target='_blank' href='https://coppermind.net/wiki/Summary:The_Well_of_Ascension#Chapter_56'>第56章</a>出现的掌管<a target='_blank' href='https://coppermind.net/wiki/Terris'>泰瑞司</a>难民的老者就是<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>。"
                 },
                 {
                   "id": "nazh",
                   "type": "mention",
-                  "description": "Annotations by <a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a> can be found on the map of <a target='_blank' href='https://coppermind.net/wiki/Luthadel'>Luthadel</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Luthadel'>陆沙德</a>地图上能找到<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>的注释。"
                 },
                 {
                   "id": "ars",
@@ -571,7 +571,7 @@
                 {
                   "target": "wb",
                   "type": "egg",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Lemex%27s_nurse'>Lemex's nurse</a> is a <a target='_blank' href='https://coppermind.net/wiki/Terris'>Terriswoman</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Lemex%27s_nurse'>勒梅克斯的护士</a>是<a target='_blank' href='https://coppermind.net/wiki/Terris'>泰瑞司人</a>。"
                 },
                 {
                   "target": "sa4",
@@ -587,13 +587,13 @@
             },
             {
               "id": "mb3",
-              "title": "The Hero of Ages",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Hero_of_Ages'>The Hero of Ages</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 1)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "publication": "October 2008",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/176/#e8494'>Mistborn Era 1 occurs prior to The Stormlight Archive.",
+              "title": "永世英雄",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Hero_of_Ages'>永世英雄</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第一纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "publication": "2008年10月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/176/#e8494'>早于《飓光志》。</a>",
               "sorting": {
                 "order": 1.13,
                 "publication": 2008.1,
@@ -603,12 +603,12 @@
                 {
                   "id": "hoid",
                   "type": "mention",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is the informant that <a target='_blank' href='https://coppermind.net/wiki/Vin'>Vin</a> was supposed to meet with in <a target='_blank' href='https://coppermind.net/wiki/Summary:The_Hero_of_Ages#Chapter_27'>Chapter 27</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>以情报贩子的身份在<a target='_blank' href='https://coppermind.net/wiki/Summary:The_Hero_of_Ages#Chapter_27'>第27章</a>出现，<a target='_blank' href='https://coppermind.net/wiki/Vin'>纹</a>本打算和他会面，但没有成行。"
                 },
                 {
                   "id": "nazh",
                   "type": "mention",
-                  "description": "Annotations by <a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a> can be found on the map of <a target='_blank' href='https://coppermind.net/wiki/Luthadel'>Luthadel</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Luthadel'>陆沙德</a>地图上能找到<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>的注释。"
                 },
                 {
                   "id": "ars",
@@ -620,27 +620,27 @@
                 {
                   "target": "sa1",
                   "type": "egg",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Demoux'>Demoux</a> appears in <a target='_blank' href='https://coppermind.net/wiki/Summary:The_Way_of_Kings#Interlude_I-1:_Ishikk'>Interlude I-1</a> as 'Thinker'; <a target='_blank' href='https://coppermind.net/wiki/Ishikk'>Ishikk</a> mishears his name as 'Temoo'. <a target='_blank' href='https://coppermind.net/wiki/Ruin'>Ruin</a>'s <a target='_blank' href='https://coppermind.net/wiki/vessel'>vessel</a>, <a target='_blank' href='https://coppermind.net/wiki/Ati'>Ati</a>, is mentioned in the <a target='_blank' href='https://coppermind.net/wiki/https://coppermind.net/wiki/The_Way_of_Kings/Epigraphs#The_Letter'>Chapter 18 epigraph</a>. <a target='_blank' href='https://coppermind.net/wiki/Felt'>Felt</a> worked for the <a target='_blank' href='https://coppermind.net/wiki/House_Venture'>House Venture</a> on <a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Demoux'>德穆</a>以“心事多”的身份出现在<a target='_blank' href='https://coppermind.net/wiki/Summary:The_Way_of_Kings#Interlude_I-1:_Ishikk'>插曲1</a>中，<a target='_blank' href='https://coppermind.net/wiki/Ishikk'>以什克</a>误以为他叫“提摩”。<a target='_blank' href='https://coppermind.net/wiki/https://coppermind.net/wiki/The_Way_of_Kings/Epigraphs#The_Letter'>第18章的题词</a>提到了<a target='_blank' href='https://coppermind.net/wiki/Ruin'>灭绝</a>的<a target='_blank' href='https://coppermind.net/wiki/vessel'>载体</a><a target='_blank' href='https://coppermind.net/wiki/Ati'>亚提</a>。<a target='_blank' href='https://coppermind.net/wiki/Felt'>菲尔特</a>实际上为<a target='_blank' href='https://coppermind.net/wiki/House_Venture'>泛图尔家族</a>效力。"
                 },
                 {
                   "target": "sa2",
                   "type": "egg",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Wit</a> appears to use <a target='_blank' href='https://coppermind.net/wiki/Allomancy'>emotional Allomancy</a> in <a target='_blank' href='https://coppermind.net/wiki/Summary:Words_of_Radiance#Chapter_45:_Middlefest'>Chapter 45</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Summary:Words_of_Radiance#Chapter_45:_Middlefest'>第45章</a>中，<a target='_blank' href='https://coppermind.net/wiki/Hoid'>知策</a>使用了<a target='_blank' href='https://coppermind.net/wiki/Allomancy'>镕金术</a>来操控情绪。"
                 },
                 {
                   "target": "sa3",
                   "type": "significant",
-                  "description": "The <a target='_blank' href='https://coppermind.net/wiki/Oathbringer/Epigraphs#Letters'>Part 2 epigraphs</a> include <a target='_blank' href='https://coppermind.net/wiki/Letters#Third_Oathbringer_Letter'>a letter</a> from <a target='_blank' href='https://coppermind.net/wiki/Sazed'>Sazed</a> to <a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a>. <a target='_blank' href='https://coppermind.net/wiki/Felt'>Felt</a> reveals he is from another world."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Oathbringer/Epigraphs#Letters'>第二部分的题词</a>是<a target='_blank' href='https://coppermind.net/wiki/Sazed'>沙赛德</a>写给<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>的<a target='_blank' href='https://coppermind.net/wiki/Letters#Third_Oathbringer_Letter'>信</a>。<a target='_blank' href='https://coppermind.net/wiki/Felt'>菲尔特</a>透露自己来自另一个世界。"
                 },
                 {
                   "target": "au",
                   "type": "major",
-                  "description": "The <a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a> essay discusses the events that occurred in <a target='_blank' href='https://coppermind.net/wiki/The_Hero_of_Ages'>The Hero of Ages</a>."
+                  "description": "本作的<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>篇章探讨了<a target='_blank' href='https://coppermind.net/wiki/The_Hero_of_Ages'>《永世英雄》</a>中的事件。"
                 },
                 {
                   "target": "sa4",
                   "type": "significant",
-                  "description": "The <a target='_blank' href='https://coppermind.net/wiki/Rhythm_of_War/Epigraphs'>Part 2 Epigraphs</a> are a letter from <a target='_blank' href='https://coppermind.net/wiki/Harmony'>Harmony</a>. <a target='_blank' href='https://coppermind.net/wiki/Fabrial'>Fabrial</a> metals have similar effects as in the <a target='_blank' href='https://coppermind.net/wiki/Metallic_Arts'>Metalic Arts</a>. <a target='_blank' href='https://coppermind.net/wiki/Gereh'>Gereh</a> and <a target='_blank' href='https://coppermind.net/wiki/Axindweth'>Axindweth</a> are <a target='_blank' href='https://coppermind.net/wiki/Feruchemy'>Feruchemists</a>. <a target='_blank' href='https://coppermind.net/wiki/Raysium'>Raysium</a> is associated with <a target='_blank' href='https://coppermind.net/wiki/Odium'>Odium</a> as <a target='_blank' href='https://coppermind.net/wiki/atium'>atium</a> is associated with <a target='_blank' href='https://coppermind.net/wiki/Ruin'>Ruin</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Rhythm_of_War/Epigraphs'>第二部分的题词</a>是<a target='_blank' href='https://coppermind.net/wiki/Harmony'>和谐</a>的来信。<a target='_blank' href='https://coppermind.net/wiki/Fabrial'>法器</a>所用金属的功效符合<a target='_blank' href='https://coppermind.net/wiki/Metallic_Arts'>金属技艺</a>的描述。<a target='_blank' href='https://coppermind.net/wiki/Gereh'>格雷</a>和<a target='_blank' href='https://coppermind.net/wiki/Axindweth'>亚克辛德维丝</a>均是<a target='_blank' href='https://coppermind.net/wiki/Feruchemy'>藏金术师</a>。<a target='_blank' href='https://coppermind.net/wiki/Raysium'>雷瑟金</a>是和<a target='_blank' href='https://coppermind.net/wiki/Odium'>仇恨（雷瑟）</a>相关的金属，就如<a target='_blank' href='https://coppermind.net/wiki/atium'>天金（亚提金）</a>是和<a target='_blank' href='https://coppermind.net/wiki/Ruin'>灭绝（亚提）</a>相关的金属。"
                 },
                 {
                   "target": "tsm",
@@ -652,17 +652,17 @@
           ]
         },
         {
-          "label": "Mistborn<br>Era 2",
+          "label": "迷雾之子<br>第二纪元",
           "children": [
             {
               "id": "mb4",
-              "title": "The Alloy of Law",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Alloy_of_Law'>The Alloy of Law</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 2)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "publication": "November 2011",
-              "chronology": "Mistborn Era 2 occurs <a target='_blank' href='https://wob.coppermind.net/events/260/#e8747'>after Stormlight Archive book 5</a> and <a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>before Stormlight Archive book 6</a>.",
+              "title": "执法镕金",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Alloy_of_Law'>执法镕金</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第二纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "publication": "2011年11月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/260/#e8747'>晚于《飓光志》卷五</a>，<a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>早于《飓光志》卷六</a>。",
               "sorting": {
                 "order": 2.21,
                 "publication": 2011.11,
@@ -672,12 +672,12 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is the beggar speaking with <a target='_blank' href='https://coppermind.net/wiki/Joshin_Yomen'>Lord Joshin</a> and <a target='_blank' href='https://coppermind.net/wiki/Mi%27chelle_Yomen'>Lady Mi'chelle</a> in <a target='_blank' href='https://coppermind.net/wiki/Summary:The_Alloy_of_Law#Chapter_4'>Chapter 4</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Summary:The_Alloy_of_Law#Chapter_4'>第4章</a><a target='_blank' href='https://coppermind.net/wiki/Joshin_Yomen'>约辛·尤门</a>与<a target='_blank' href='https://coppermind.net/wiki/Mi%27chelle_Yomen'>蜜雪儿·欧思特林</a>的婚礼上，<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>以乞丐的身份与新人交谈。"
                 },
                 {
                   "id": "nazh",
                   "type": "mention",
-                  "description": "Annotations by <a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a> can be found on the map of <a target='_blank' href='https://coppermind.net/wiki/Elendel'>Elendel</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Elendel'>依蓝戴城</a>地图上能找到<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>的注释。"
                 },
                 {
                   "id": "ars",
@@ -695,15 +695,15 @@
             },
             {
               "id": "jak",
-              "title": "Allomancer Jak",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Allomancer_Jak_and_the_Pits_of_Eltania'>Allomancer Jak and the Pits of Eltania, Episodes 28-30</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 2)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "au": "Included in <a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>Arcanum Unbounded</a>.",
+              "title": "镕金术师贾克",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Allomancer_Jak_and_the_Pits_of_Eltania'>镕金术师贾克与艾塔尼亚深坑</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第二纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "au": "收录于<a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>《奥秘全书》</a>。",
               "padding": 12,
-              "publication": "August 2014",
-              "chronology": "Mistborn Era 2 occurs <a target='_blank' href='https://wob.coppermind.net/events/260/#e8747'>after Stormlight Archive book 5</a> and <a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>before Stormlight Archive book 6</a>.",
+              "publication": "2014年8月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/260/#e8747'>晚于《飓光志》卷五</a>，<a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>早于《飓光志》卷六</a>。",
               "sorting": {
                 "order": 2.22,
                 "publication": 2014.08,
@@ -713,13 +713,13 @@
             },
             {
               "id": "mb5",
-              "title": "Shadows of Self",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Shadows_of_Self'>Shadows of Self</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 2)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "publication": "October 2015",
-              "chronology": "Mistborn Era 2 occurs <a target='_blank' href='https://wob.coppermind.net/events/260/#e8747'>after Stormlight Archive book 5</a> and <a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>before Stormlight Archive book 6</a>.",
+              "title": "旧影森森",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Shadows_of_Self'>旧影森森</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第二纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "publication": "2015年10月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/260/#e8747'>晚于《飓光志》卷五</a>，<a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>早于《飓光志》卷六</a>。",
               "sorting": {
                 "order": 2.23,
                 "publication": 2015.1,
@@ -729,7 +729,7 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is <a target='_blank' href='https://coppermind.net/wiki/Waxillium_Laddrian'>Wax</a>'s coachman, named in <a target='_blank' href='https://coppermind.net/wiki/Summary:Shadows_of_Self#Chapter_7'>Chapter 7</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Summary:Shadows_of_Self#Chapter_7'>第7章</a>中，<a target='_blank' href='https://coppermind.net/wiki/Waxillium_Laddrian'>瓦克斯</a>的车夫就是<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>。"
                 },
                 {
                   "id": "ars",
@@ -740,13 +740,13 @@
             },
             {
               "id": "mb6",
-              "title": "The Bands of Mourning",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Bands_of_Mourning'>The Bands of Mourning</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 2)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "publication": "January 2016",
-              "chronology": "Mistborn Era 2 occurs <a target='_blank' href='https://wob.coppermind.net/events/260/#e8747'>after Stormlight Archive book 5</a> and <a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>before Stormlight Archive book 6</a>.",
+              "title": "悲悼护腕",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Bands_of_Mourning'>悲悼护腕</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第二纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "publication": "2016年1月",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/260/#e8747'>晚于《飓光志》卷五</a>，<a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>早于《飓光志》卷六</a>。",
               "sorting": {
                 "order": 2.24,
                 "publication": 2016.01,
@@ -756,17 +756,17 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is the beggar who gives <a target='_blank' href='https://coppermind.net/wiki/Waxillium_Laddrian'>Wax</a> a special coin in <a target='_blank' href='https://coppermind.net/wiki/Summary:The_Bands_of_Mourning#Chapter_11'>Chapter 11</a>."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Summary:The_Bands_of_Mourning#Chapter_11'>第11章</a>中，<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>以乞丐的身份给了<a target='_blank' href='https://coppermind.net/wiki/Waxillium_Laddrian'>瓦克斯</a>一枚古怪的硬币。"
                 },
                 {
                   "id": "khriss",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>Khriss</a> is the woman who dances with <a target='_blank' href='https://coppermind.net/wiki/Waxillium_Laddrian'>Wax</a> in <a target='_blank' href='https://coppermind.net/wiki/Summary:The_Bands_of_Mourning#Chapter_12'>Chapter 12</a>. <a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>Khriss</a> and <a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a> are also the 'K or N' referred to in the 'Do your metal tools speak to you?' ad in <a target='_blank' href='https://coppermind.net/wiki/The_New_Ascendancy'>The New Ascendancy</a> broadsheet."
+                  "description": "在<a target='_blank' href='https://coppermind.net/wiki/Summary:The_Bands_of_Mourning#Chapter_12'>第12章</a>中，与<a target='_blank' href='https://coppermind.net/wiki/Waxillium_Laddrian'>瓦克斯</a>共舞的女子就是<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>克丽丝</a>。<a target='_blank' href='https://coppermind.net/wiki/The_New_Ascendancy'>《新升华报》刊登</a>的广告《您的金属工具跟您说话吗？》带有“K.或N.”的字样，指的就是<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>克丽丝</a>和<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>。"
                 },
                 {
                   "id": "nazh",
                   "type": "mention",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a> is 'the haunted man' in 'The Ghastly Gondola!' story in <a target='_blank' href='https://coppermind.net/wiki/The_New_Ascendancy'>The New Ascendancy</a> broadsheet. (note his 'shadows' curse) <a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>Khriss</a> and <a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a> are also the 'K or N' referred to in the 'Do your metal tools speak to you?' ad in the broadsheet."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/The_New_Ascendancy'>《新升华报》</a>刊登的报道《可怕的缆车》中，所谓“阴阳怪气男”就是<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>，注意他的诅咒语。广告《您的金属工具跟您说话吗？》带有“K.或N.”的字样，指的就是<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>克丽丝</a>和<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>。"
                 },
                 {
                   "id": "ars",
@@ -778,20 +778,20 @@
                 {
                   "target": "msh",
                   "type": "major",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Kelsier'>Kelsier</a>'s survival is revealed in <a target='_blank' href='https://coppermind.net/wiki/The_Bands_of_Mourning'>The Bands of Mourning</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/The_Bands_of_Mourning'>《悲悼护腕》</a>的剧情显示，<a target='_blank' href='https://coppermind.net/wiki/Kelsier'>卡西尔</a>依然存活。"
                 }
               ]
             },
             {
               "id": "msh",
-              "title": "Mistborn: Secret History",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn:_Secret_History'>Mistborn: Secret History</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "au": "Included in <a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>Arcanum Unbounded</a>.",
-              "publication": "January 2016",
-              "chronology": "Happens concurrently with Mistborn Era 1.",
+              "title": "迷雾之子：秘史",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn:_Secret_History'>迷雾之子：秘史</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "au": "收录于<a target='_blank' href='https://coppermind.net/wiki/Arcanum_Unbounded'>《奥秘全书》</a>。",
+              "publication": "2016年1月",
+              "chronology": "平行于第一纪元。",
               "padding": 12,
               "sorting": {
                 "order": 2.25,
@@ -802,17 +802,17 @@
                 {
                   "id": "hoid",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> is 'Drifter'."
+                  "description": "本作中的“浪子”就是<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>。"
                 },
                 {
                   "id": "khriss",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Kelsier'>Kelsier</a> meets <a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>Khriss</a> and <a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a> in the <a target='_blank' href='https://coppermind.net/wiki/Cognitive_Realm'>Cognitive Realm</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Kelsier'>卡西尔</a>在<a target='_blank' href='https://coppermind.net/wiki/Cognitive_Realm'>知界域</a>遇到了<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>克丽丝</a>和<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>。"
                 },
                 {
                   "id": "nazh",
                   "type": "appearance",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Kelsier'>Kelsier</a> meets <a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>Khriss</a> and <a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a> in the <a target='_blank' href='https://coppermind.net/wiki/Cognitive_Realm'>Cognitive Realm</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Kelsier'>卡西尔</a>在<a target='_blank' href='https://coppermind.net/wiki/Cognitive_Realm'>知界域</a>遇到了<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>克丽丝</a>和<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>。"
                 }
               ],
               "categories": ["mistborn", "novella", "phase2", "published"],
@@ -820,12 +820,12 @@
                 {
                   "target": "traveler",
                   "type": "major",
-                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> and <a target='_blank' href='https://coppermind.net/wiki/Frost'>Frost</a> discuss the events of <a target='_blank' href='https://coppermind.net/wiki/The_Hero_of_Ages'>The Hero of Ages</a> (and <a target='_blank' href='https://coppermind.net/wiki/Mistborn:_Secret_History'>Mistborn: Secret History</a>)."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>和<a target='_blank' href='https://coppermind.net/wiki/Frost'>冰霜</a>探讨了<a target='_blank' href='https://coppermind.net/wiki/The_Hero_of_Ages'>《永世英雄》</a>和<a target='_blank' href='https://coppermind.net/wiki/Mistborn:_Secret_History'>《迷雾之子：秘史》</a>中发生的事件。"
                 },
                 {
                   "target": "sa4",
                   "type": "significant",
-                  "description": "Thaidakar, leader of the <a target='_blank' href='https://coppermind.net/wiki/Ghostbloods'>Ghostbloods</a> is <a target='_blank' href='https://coppermind.net/wiki/Kelsier'>Kelsier</a>, with the fight between him and <a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a> in <a target='_blank' href='https://coppermind.net/wiki/Mistborn:_Secret_History'>Secret History</a> specifically referenced. <a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a> is referenced in <a target='_blank' href='https://coppermind.net/wiki/Ialai'>Ialai's</a> notes. The device used by the <a target='_blank' href='https://coppermind.net/wiki/honorspren'>honorspren</a> to store <a target='_blank' href='https://coppermind.net/wiki/Stormlight'>Stormlight</a> came from the <a target='_blank' href='https://coppermind.net/wiki/Ire'>Ire</a>."
+                  "description": "<a target='_blank' href='https://coppermind.net/wiki/Ghostbloods'>鬼血会</a>的会长萨尔达卡就是<a target='_blank' href='https://coppermind.net/wiki/Kelsier'>卡西尔</a>，本作中特意提到了他和<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>在<a target='_blank' href='https://coppermind.net/wiki/Mistborn:_Secret_History'>《迷雾之子：秘史》</a>中发生的争执。<a target='_blank' href='https://coppermind.net/wiki/Ialai'>雅莱</a>的笔记提到了<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>。<a target='_blank' href='https://coppermind.net/wiki/honorspren'>荣灵</a>用来储存<a target='_blank' href='https://coppermind.net/wiki/Stormlight'>飓光</a>的设备来自<a target='_blank' href='https://coppermind.net/wiki/Ire'>埃瑞会</a>。"
                 },
                 {
                   "target": "tress",
@@ -836,13 +836,13 @@
             },
             {
               "id": "mb7",
-              "title": "The Lost Metal",
-              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Lost_Metal'>The Lost Metal</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 2)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "publication": "Fall 2022",
-              "chronology": "Mistborn Era 2 occurs <a target='_blank' href='https://wob.coppermind.net/events/260/#e8747'>after Stormlight Archive book 5</a> and <a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>before Stormlight Archive book 6</a>.",
+              "title": "失落金属",
+              "title2": "<a target='_blank' href='https://coppermind.net/wiki/The_Lost_Metal'>失落金属</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第二纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "publication": "2022年秋",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/260/#e8747'>晚于《飓光志》卷五</a>，<a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>早于《飓光志》卷六</a>。",
               "sorting": {
                 "order": 2.27,
                 "publication": 2022.11,
@@ -890,12 +890,12 @@
             },
             {
               "id": "nicki",
-              "title": "Book of Nails",
-              "title2": "<a target='_blank' href='https://wob.coppermind.net/events/513-miscellaneous-2023/#e16217'>Book of Nails</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 2)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "chronology": "Mistborn Era 2 occurs <a target='_blank' href='https://wob.coppermind.net/events/260/#e8747'>after Stormlight Archive book 5</a> and <a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>before Stormlight Archive book 6</a>.",
+              "title": "妮奇·萨瓦奇与不死军团",
+              "title2": "<a target='_blank' href='https://wob.coppermind.net/events/513-miscellaneous-2023/#e16217'>妮奇·萨瓦奇与不死军团</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第二纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/260/#e8747'>晚于《飓光志》卷五</a>，<a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>早于《飓光志》卷六</a>。",
               "padding": 12,
               "sorting": {
                 "chronology": 8.5
@@ -905,17 +905,17 @@
           ]
         },
         {
-          "label": "Mistborn<br>Era 3",
+          "label": "迷雾之子<br>第三纪元",
           "children": [
             {
               "id": "mb8",
               "title": "Ghostbloods 1",
               "title2": "<a target='_blank' href='https://wob.coppermind.net/adv_search/?tags=mistborn+era+3'>Ghostbloods 1</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 3)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>Fifty to seventy years after Mistborn Era 2. After Stormlight Archive book 10.</a> Prior to Mistborn Era 5.",
-              "publication": "<a target='_blank' href='https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2024'>December 2028 (planned)</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第三纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>发生在迷雾之子第二纪元的50-70年后，晚于《飓光志》卷十</a>，早于迷雾之子第四纪元。",
+              "publication": "<a target='_blank' href='https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2024'>暂定2028年</a>",
               "sorting": {
                 "chronology": 10.1,
                 "publication": 2028.12
@@ -926,11 +926,11 @@
               "id": "mb9",
               "title": "Ghostbloods 2",
               "title2": "<a target='_blank' href='https://wob.coppermind.net/adv_search/?tags=mistborn+era+3'>Ghostbloods 2</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 3)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>Fifty to seventy years after Mistborn Era 2. After Stormlight Archive book 10.</a> Prior to Mistborn Era 5.",
-              "publication": "<a target='_blank' href='https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2024'>December 2029 (planned)</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第三纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>发生在迷雾之子第二纪元的50-70年后，晚于《飓光志》卷十</a>，早于迷雾之子第四纪元。",
+              "publication": "<a target='_blank' href='https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2024'>暂定2029年</a>",
               "sorting": {
                 "chronology": 10.2,
                 "publication": 2029.12
@@ -941,11 +941,11 @@
               "id": "mb10",
               "title": "Ghostbloods 3",
               "title2": "<a target='_blank' href='https://wob.coppermind.net/adv_search/?tags=mistborn+era+3'>Ghostbloods 3</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 3)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>Fifty to seventy years after Mistborn Era 2. After Stormlight Archive book 10.</a> Prior to Mistborn Era 5.",
-              "publication": "<a target='_blank' href='https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2024'>December 2030 (planned)</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第三纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/454-dragonmount-zoom-call/#e14582'>发生在迷雾之子第二纪元的50-70年后，晚于《飓光志》卷十</a>，早于迷雾之子第四纪元。",
+              "publication": "<a target='_blank' href='https://www.brandonsanderson.com/blogs/blog/state-of-the-sanderson-2024'>暂定2030年</a>",
               "sorting": {
                 "chronology": 10.3,
                 "publication": 2030.12
@@ -999,16 +999,16 @@
           ]
         },
         {
-          "label": "Mistborn<br>Era 5",
+          "label": "迷雾之子<br>第五纪元",
           "children": [
             {
               "id": "mb14",
               "title": "Space Age Mistborn 1",
               "title2": "<a target='_blank' href='https://wob.coppermind.net/adv_search/?tags=mistborn+era+4'>Space Age Mistborn 1</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 5)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/182/#e3884'>Mistborn Era 5 is the finale of the cosmere storyline.</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第五纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/182/#e3884'>三界宙系列的大结局。</a>",
               "sorting": {
                 "chronology": 13.1
               },
@@ -1018,23 +1018,23 @@
               "id": "mb15",
               "title": "Space Age Mistborn 2",
               "title2": "<a target='_blank' href='https://wob.coppermind.net/adv_search/?tags=mistborn+era+4'>Space Age Mistborn 2</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 5)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/182/#e3884'>Mistborn Era 5 is the finale of the cosmere storyline.</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第五纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/182/#e3884'>三界宙系列的大结局。</a>",
               "sorting": {
                 "chronology": 13.2
               },
-              "categories": ["mistborn", "unpublished", "future-plan", "novel"]
+              "categories": ["mistborn", "plan", "unpublished", "novel"]
             },
             {
               "id": "mb16",
               "title": "Space Age Mistborn 3",
               "title2": "<a target='_blank' href='https://wob.coppermind.net/adv_search/?tags=mistborn+era+4'>Space Age Mistborn 3</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a> (Era 5)",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
-              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/182/#e3884'>Mistborn Era 5 is the finale of the cosmere storyline.</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>迷雾之子</a>第五纪元",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
+              "chronology": "<a target='_blank' href='https://wob.coppermind.net/events/182/#e3884'>三界宙系列的大结局。</a>",
               "sorting": {
                 "chronology": 13.3
               },
@@ -1043,15 +1043,15 @@
           ]
         },
         {
-          "label": "Other<br>Mistborn",
+          "label": "迷雾之子<br>外传",
           "children": [
             {
               "id": "msh2",
-              "title": "Mistborn: Secret History 2",
-              "title2": "<a target='_blank' href='https://wob.coppermind.net/adv_search/?tags=mistborn%3A+secret+history+2'>Mistborn: Secret History 2</a>",
-              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'>Mistborn</a>",
-              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>Scadrial</a>",
-              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>Scadrian system</a>",
+              "title": "迷雾之子：秘史·卷二",
+              "title2": "<a target='_blank' href='https://wob.coppermind.net/adv_search/?tags=mistborn%3A+secret+history+2'>迷雾之子：秘史·卷二</a>",
+              "series": "<a target='_blank' href='https://coppermind.net/wiki/Mistborn_(series)'迷雾之子</a>",
+              "world": "<a target='_blank' href='https://coppermind.net/wiki/Scadrial'>司卡德瑞尔</a>",
+              "system": "<a target='_blank' href='https://coppermind.net/wiki/Scadrian_system'>司卡德瑞尔星系</a>",
               "categories": [
                 "mistborn",
                 "novella",
