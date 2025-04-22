@@ -3,16 +3,16 @@
   "connections": [
     {
       "id": "major",
-      "description": "Major",
-      "details": "There is at least one major connection between the books which will enhance your understanding of the plot and the Cosmere. Reading in this order is highly recommended, and reading out of order may be spoilery.",
+      "description": "主要关联",
+      "details": "书与书之间存在至少一个主要关联，可加强读者对剧情和三界宙背景的理解。强烈推荐按照此顺序阅读，否则可能会产生剧透。",
       "color": "#770000",
       "highlightColor": "#DB1E1E",
       "width": 2
     },
     {
       "id": "significant",
-      "description": "Significant",
-      "details": "There is at least one significant connection between the books which may enhance your understanding of the plot and the Cosmere. Reading in this order is recommended.",
+      "description": "重要关联",
+      "details": "书与书之间存在至少一个重要关联，可加强读者对剧情和三界宙背景的理解。推荐按照此顺序阅读。",
       "color": "#a0470d",
       "highlightColor": "#a0470d",
       "width": 2,
@@ -20,8 +20,8 @@
     },
     {
       "id": "minor",
-      "description": "Minor",
-      "details": "There is at least one minor connection between the books which may enhance your understanding of the plot and Cosmere in a small way.",
+      "description": "次要关联",
+      "details": "书与书之间存在至少一个次要关联，可略微加强读者对剧情和三界宙背景的理解。",
       "color": "#a09713",
       "highlightColor": "#a09713",
       "width": 1,
@@ -30,8 +30,8 @@
     },
     {
       "id": "egg",
-      "description": "Easter Eggs",
-      "details": "There is at least one subtle reference between the books which may hint at something bigger going on. Easter eggs may be very difficult to spot unaided.",
+      "description": "彩蛋",
+      "details": "书与书之间存在至少一个彩蛋，可能暗示有更大的事件发生。在没有提示的情况下，彩蛋可能很难发现。",
       "color": "#4d4d4d",
       "highlightColor": "#4d4d4d",
       "width": 1,
@@ -42,49 +42,49 @@
   "layers": [
     {
       "id": "series",
-      "name": "Series",
+      "name": "系列",
       "startActive": true,
       "categories": [
         {
           "id": "elantris",
-          "description": "Elantris",
-          "details": "Elantris and its sequels.",
+          "description": "伊岚翠",
+          "details": "本篇及其续作",
           "color": "#58b06e"
         },
         {
           "id": "mistborn",
-          "description": "Mistborn",
-          "details": "Mistborn (all eras)",
+          "description": "迷雾之子",
+          "details": "所有纪元的小说",
           "color": "#9973bf"
         },
         {
           "id": "warbreaker",
-          "description": "Warbreaker",
-          "details": "Warbreaker and its sequel.",
+          "description": "破战者",
+          "details": "本篇及其续作",
           "color": "#de4343"
         },
         {
           "id": "stormlight",
-          "description": "Stormlight Archive",
-          "details": "The Stormlight Archive",
+          "description": "飓光志",
+          "details": "飓光志",
           "color": "#2aa1d4"
         },
         {
           "id": "white-sand",
-          "description": "White Sand",
-          "details": "White Sand",
-          "color": "#9e9957"
+          "description": "白沙",
+          "details": "本篇及其续作",
+          "color": "#d4c955"
         },
         {
           "id": "dragonsteel",
-          "description": "Dragonsteel",
-          "details": "Dragonsteel",
+          "description": "龙钢",
+          "details": "龙钢",
           "color": "#d98a41"
         },
         {
           "id": "aether",
-          "description": "Aether",
-          "details": "Aether series",
+          "description": "暗夜以太",
+          "details": "暗夜以太",
           "color": "#e3a1e3"
         },
         {
@@ -95,27 +95,27 @@
         },
         {
           "id": "no-series",
-          "description": "Non-series Stories",
-          "details": "Stories not part of a series.",
+          "description": "独立作品",
+          "details": "不成系列的作品",
           "color": "#A0A0A0"
         }
       ]
     },
     {
       "id": "pub-status",
-      "name": "Publication Status",
+      "name": "出版情况",
       "startCollapsed": true,
       "categories": [
         {
           "id": "published",
-          "description": "Published",
-          "details": "Published, canonical works.",
+          "description": "已出版",
+          "details": "已出版的正史作品。",
           "color": "#00c29a"
         },
         {
           "id": "forthcoming",
-          "description": "Forthcoming",
-          "details": "Forthcoming works with a planned release target or which are being actively worked on. Expected publication dates may be in parenthesis. Titles may be tentative.",
+          "description": "即将出版",
+          "details": "已有出版排期或正在积极创作的作品，标题可能待定。",
           "color": "#82ddc3"
         },
         {
@@ -132,26 +132,26 @@
         },
         {
           "id": "other-pub",
-          "description": "Other",
-          "details": "Uncanonical works which are publicly available, both excerpts and complete.",
+          "description": "其他",
+          "details": "已公布的非正史作品节选或全文。",
           "color": "#735a45"
         }
       ]
     },
     {
       "id": "reading-order",
-      "name": "Reading Order",
+      "name": "阅读顺序",
       "startCollapsed": true,
       "categories": [
         {
           "id": "phase1",
-          "description": "Phase 1",
+          "description": "第一阶段",
           "details": "The idea of the greater Cosmere plays a small role, with connections generally being little more than easter eggs.",
           "color": "#00b02b"
         },
         {
           "id": "phase2",
-          "description": "Phase 2",
+          "description": "第二阶段",
           "details": "This phase involves more direct Cosmere references and serves as a transition from Phase 1 to Phase 3.",
           "color": "#0094d4"
         },
@@ -170,46 +170,46 @@
         {
           "id": "unpublished",
           "description": "Unpublished",
-          "details": "Includes all planned future cosmere stories. Likelihood of publication varies. Known publication dates may be in parenthesis. Titles are tentative.",
+          "details": "含所有计划内的三界宙作品，出版概率各不相同，标题待定。",
           "color": "#505050"
         },
         {
           "id": "apocryphal",
-          "description": "Apocryphal",
-          "details": "Includes unpublished, apocryphal stories. Some elements may be part of the official continuity. Some may be published in the future while others will not.",
+          "description": "未出版作品 - 伪作",
+          "details": "包含所有未出版的伪作，部分元素可能不符合官方设定。部分作品可能会翻新出版。",
           "color": "#735a45"
         }
       ]
     },
     {
       "id": "formats",
-      "name": "Formats",
+      "name": "篇幅",
       "startCollapsed": true,
       "categories": [
         {
           "id": "novel",
-          "description": "Novels",
-          "details": "Full novels.",
+          "description": "长篇小说",
+          "details": "长篇小说",
           "color": "#01b58a"
         },
         {
           "id": "graphic",
-          "description": "Graphic Novels",
-          "details": "Graphic novels.",
+          "description": "图像小说",
+          "details": "图像小说",
           "style": "italic",
           "color": "#4656cd"
         },
         {
           "id": "novella",
-          "description": "Novellas",
-          "details": "Novellas.",
+          "description": "中篇小说",
+          "details": "中篇小说",
           "style": "italic",
           "color": "#fd8f32"
         },
         {
           "id": "short",
-          "description": "Short Stories",
-          "details": "Short stories.",
+          "description": "短篇小说",
+          "details": "短篇小说",
           "style": "italic",
           "color": "#fb4422"
         }
@@ -219,45 +219,45 @@
   "sorting": [
     {
       "id": "publication",
-      "description": "Publication date"
+      "description": "出版日期"
     },
     {
       "id": "order",
-      "description": "Reading order"
+      "description": "阅读顺序"
     },
     {
       "id": "chronology",
-      "description": "Cosmere timeline"
+      "description": "时间顺序"
     }
   ],
   "appearances": [
     {
       "id": "hoid",
-      "description": "Hoid",
-      "initial": "H",
+      "description": "须空",
+      "initial": "须",
       "color": "#A0A0A0",
-      "details": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>Hoid</a>'s appearances (solid) and mentions (outline)."
+      "details": "<a target='_blank' href='https://coppermind.net/wiki/Hoid'>须空</a>在本作中出场或被提及。"
     },
     {
       "id": "khriss",
-      "description": "Khriss",
-      "initial": "K",
+      "description": "克丽丝",
+      "initial": "克",
       "color": "#A0A0A0",
-      "details": "<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>Khriss</a>'s appearances (solid) and mentions (outline), not counting the <a target='_blank' href='https://coppermind.net/wiki/Ars_Arcanum'>Ars Arcanum</a>."
+      "details": "<a target='_blank' href='https://coppermind.net/wiki/Khrissalla'>克丽丝</a>在本作中出场或被提及，但不包括她在<a target='_blank' href='https://coppermind.net/wiki/Ars_Arcanum'>《秘典》</a>中的论述。"
     },
     {
       "id": "nazh",
-      "description": "Nazh",
-      "initial": "N",
+      "description": "纳兹",
+      "initial": "纳",
       "color": "#A0A0A0",
-      "details": "<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>Nazh</a>'s appearances (solid) and mentions (outline)."
+      "details": "<a target='_blank' href='https://coppermind.net/wiki/Nazrilof'>纳兹</a>在本作中出场或被提及。"
     },
     {
       "id": "ars",
-      "description": "Ars Arcanum",
-      "initial": "A",
+      "description": "秘典",
+      "initial": "秘",
       "color": "#A0A0A0",
-      "details": "Stories that include an <a target='_blank' href='https://coppermind.net/wiki/Ars_Arcanum'>Ars Arcanum</a>."
+      "details": "本作收录<a target='_blank' href='https://coppermind.net/wiki/Ars_Arcanum'>《秘典》</a>。"
     }
   ],
   "books": [
